@@ -1,4 +1,4 @@
-<a href="#"><center><img src="https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpghttps://mpng.subpng.com/20190702/zjp/kisspng-computer-programming-source-code-computer-software-5d1b385d2a10c8.4890123015620649891723.jpg" height="250px" width="350px" /></center></a>
+<p align="center"><img src="https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpghttps://mpng.subpng.com/20190702/zjp/kisspng-computer-programming-source-code-computer-software-5d1b385d2a10c8.4890123015620649891723.jpg" height="250px" width="350px"></p>
 
 <h1 align="center">Hi, Everone!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h3 align="center">I am Rakesh Roshan pursuing B.Tech Computer Science and Engineering, a second year student.</h3>
