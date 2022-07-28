@@ -22,14 +22,28 @@
 
 ## 🚀 Preferred Programming Languages and Tools:
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> </a>
-    <a href="https://www.learncpp.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/> </a>
-    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a>
-    <a href="https://web.dev/learn/css/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png"/> </a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a>
+	<code><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
+    	<code><a href="https://www.learncpp.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a></code>
+    	<code><a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
+    	<code><a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a></code>
+    	<code><a href="https://web.dev/learn/css/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png"/> </a></code>
+    	<code><a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a></code>
+    	<code><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
 </p>
+<br>
+
+## 👨🏻‍💻 Coding Profiles
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/roshanrakesh7362)
+<br>
+
+## 🔗 Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/rakesh250602/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href= "mailto:roshanrakesh7362@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "https://github.com/Rakesh9100/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+</p>
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Github Stats
 
@@ -62,8 +76,3 @@
 	<img src = "https://github.com/Rakesh9100/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
-## 🔗 Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/rakesh250602/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
