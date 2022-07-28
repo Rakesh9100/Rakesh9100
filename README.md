@@ -70,9 +70,9 @@
 <p align="center"> <a href="https://github.com/Rakesh9100/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=midnight-purple&column=4&margin-w=15&margin-h=15" alt="Rakesh9100" /></a> </p>
 </details></br>
 
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 A Snake Eating my Contribution Graph
 
 <p align = "center">
-	<img src = "https://github.com/Rakesh9100/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/Rakesh9100/Rakesh9100/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
