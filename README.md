@@ -1,9 +1,9 @@
-<p align="center"><img src="https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpghttps://mpng.subpng.com/20190702/zjp/kisspng-computer-programming-source-code-computer-software-5d1b385d2a10c8.4890123015620649891723.jpg" alt="Software-Programmer" height="250px" width="350px"></p>
-
 <h1 align="center">Hi, Everyone!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> </h1>
 
+<p align="center"><img src="https://github.com/Rakesh9100/Rakesh9100/blob/master/Black%20and%20White%20Abstract%20Banner.png" alt="Black and White Abstract Banner" height="401px" width="1584px"></p>
+
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Always+learning+new+things">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things">
 </p>
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Rakesh9100&label=Profile%20views&color=0e75b6&style=oval-square" alt="Rakesh9100"/>
@@ -13,10 +13,22 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 - :school: I am a 3rd year CSE Student at [`Lovely Professional University`](https://www.lpu.in).
-- :technologist: I love coding in C and C++ mostly. Some accepted language also include Python and lightweighted languages such as HTML, CSS, and JS.
+- :technologist: I love coding in C and C++ mostly.
+- :nerd_face: I am an `Open Source Enthusiast` and love to participate and contribute to various projects in Open Source Programs.
 - :computer: I am towards the goal of learning `Data Structures and Algorithms` and indulge in `Competitive Programming`.
+- :technologist: I am currently learning and working on `Full Stack Web Development`.
 - :student: I am looking forward from others to please collaborate and contribute and provide suggestions in my project which I will appreciate a lot.
 - :nerd_face: Always in a try to `learn new things`.
+<table align="center" rows="50" column="50">
+  <tr>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Contributor at <a href="https://gssoc.girlscript.tech/">GSSoC'22</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Contributor at <a href="https://soc.hackclubrait.co/">HSOC'22</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Project Maintainer at <a href="https://github.com/Rakesh9100/InstaStore">HSOC'22</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Contributor at <a href="https://hacktoberfest.com/">Hacktoberfest'22</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Project Maintainer at <a href="https://github.com/Rakesh9100/Click-The-Edible-Game">Hacktoberfest'22</a> </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚀 Milestone 3 at <a href="https://events.withgoogle.com/googlecloudready-facilitator-program/">GoogleCloudReady Facilitator Program</a> </td>
+  </tr>
+</table>
 <br>
 
 ## 🚀 Preferred Programming Languages and Tools:
@@ -38,6 +50,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/roshanrakesh7362?hr_r=1)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Rakesh9100/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/roshanrakesh7362)
+[![Google Cloud Badges](https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/29e851f3-5a90-4e77-87ae-8b1d1a2c10b3)
 
 <br>
 
@@ -48,6 +61,7 @@
 <a href= "mailto:roshanrakesh7362@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://github.com/Rakesh9100/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a href = "https://www.facebook.com/rakesh6203/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<a href = "https://discordapp.com/users/944144134950748170"><img src="https://img.icons8.com/fluency/48/000000/discord.png"/></a>
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Github Stats
