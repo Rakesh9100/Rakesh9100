@@ -11,7 +11,7 @@
 <p align = "center">
 <img src = "https://komarev.com/ghpvc/?username=Rakesh9100&label=Profile%20views&color=0e75b6&style=oval-square" alt = "Rakesh9100"/></p>
 
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,5&height=2.5"/></p><br>
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 <picture> <img align = "right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,5&height=2.5"/></p><br>
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
 ## 🚀 Preferred Programming Languages and Tools:
 <p align = "left">
@@ -66,7 +66,7 @@
 <a href = "https://www.facebook.com/rakesh6203/"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://discordapp.com/users/944144134950748170"><img src = "https://img.icons8.com/fluency/48/000000/discord.png"/></a>
 
-<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,5&height=2.5"/></p><br>
+<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Github Stats
 
@@ -91,10 +91,17 @@
 <p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=midnight-purple&column=5&margin-w=15&margin-h=15" alt = "Trophies"/> </p>
 </details>
 
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,5&height=2.5"/></p><br>
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
 ## 🐍 A Snake Eating my Contribution Graph
 
 <p align = "center">
 <img src = "https://github.com/Rakesh9100/Rakesh9100/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
+</p><br>
+
+<div align="center">
+
+### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = ""> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+
+### Show some ❤️ by starring some of my repositories !!
+</div>
