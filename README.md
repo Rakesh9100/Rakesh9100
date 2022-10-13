@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Everyone!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> </h1>
 
-<p align="center"><img src="https://github.com/Rakesh9100/Rakesh9100/blob/master/Black%20and%20White%20Abstract%20Banner.png" alt="Black and White Abstract Banner" height="401px" width="1584px"></p>
+<p align="center"><img src="https://github.com/Rakesh9100/Rakesh9100/blob/master/Blue%20and%20White%20Abstract%20Banner.png" alt="Blue and White Abstract Banner"></p>
 
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things">
