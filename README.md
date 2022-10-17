@@ -2,6 +2,8 @@
 
 <p align = "center"><img src = "Blue%20and%20White%20Abstract%20Banner.png" alt = "Blue and White Abstract Banner"></p>
 
+[![@rakesh9100's Holopin board](https://holopin.me/rakesh9100)](https://holopin.io/@rakesh9100)
+
 <p align = "center">
 <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
 
