@@ -1,8 +1,8 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> </h1>
 
-<p align = "center"><img src = "Blue%20and%20White%20Abstract%20Banner.png" alt = "Blue and White Abstract Banner"></p>
+<p align = "center"><img src = "Blue%20and%20White%20Abstract%20Banner.png" alt = "Blue and White Abstract Banner"></p><br>
 
-![HF](https://user-images.githubusercontent.com/73993775/198192345-2dc6923a-25b0-4e20-906c-5d94fe371c3c.png)
+[![An image of @rakesh9100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakesh9100)](https://holopin.io/@rakesh9100)
 
 <p align = "center">
 <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
