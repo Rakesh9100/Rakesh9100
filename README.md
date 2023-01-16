@@ -1,6 +1,6 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> </h1>
 
-<p align = "center"><img src = "Blue%20and%20White%20Abstract%20Banner.png" alt = "Blue and White Abstract Banner"></p><br>
+<p align = "center"><img src = "Blue%20and%20White%20Abstract%20Banner.png" alt = "Blue and White Abstract Banner"></p>
 
 [![An image of @rakesh9100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakesh9100)](https://holopin.io/@rakesh9100)
 
@@ -17,21 +17,25 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 <picture> <img align = "right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- :school: I am a 3rd year CSE Student at [`Lovely Professional University`](https://www.lpu.in).
-- :technologist: I love coding in C and C++ mostly.
-- :nerd_face: I am an `Open Source Enthusiast` and love to participate in open source programs and contribute to various projects .
-- :computer: I am towards the goal of learning `Data Structures and Algorithms` and indulge in `Competitive Programming`.
-- :technologist: I am currently learning and working on `Full Stack Web Development`.
-- :student: I am looking forward from others to please collaborate and contribute and provide suggestions in my project which I will appreciate a lot.
-- :nerd_face: Always in a try to `learn new things`.
+- 🏫 I am a 3<sup>rd</sup> year CSE Student at [`Lovely Professional University`](https://www.lpu.in).
+- 🧑‍💻 Love Coding in C and C++ mostly.
+- 🙂 Open Source Contributor at [`GSSoC'22`](https://gssoc.girlscript.tech/).
+- ⭐ Secured 46<sup>th</sup> Rank Globally & Received `Letter of Recommendation` in [`GSSoC'22`](https://gssoc.girlscript.tech/).
+- ⭐ 3<sup>rd</sup> Milestone in [`GoogleCloudReady Facilitator Program'22`](https://events.withgoogle.com/googlecloudready-facilitator-program/).
+- 🙂 Contributor & Project Admin at [`HSOC'22`](https://soc.hackclubrait.co/).
+- ⭐ Secured 6<sup>th</sup> Rank Globally in [`HSOC'22`](https://soc.hackclubrait.co/).
+- 🙂 Contributor & Project Maintainer at [`Hacktoberfest'22`](https://hacktoberfest.com/).
+- ⭐ 9 PRs merged in [`Hacktoberfest'22`](https://hacktoberfest.com/).
+- 🤓 Always in a try to `learn new things`.
+
 <table align = "center">
   <tr>
-    <td style = "border-right: 1px solid #eeeeef;" align = "center"> 🌟 Contributor at <a href = "https://gssoc.girlscript.tech/">GSSoC'22</a> </td>
-    <td style = "border-right: 1px solid #eeeeef;" align = "center"> 🌟 Contributor at <a href = "https://soc.hackclubrait.co/">HSOC'22</a> </td>
-    <td style = "border-right: 1px solid #eeeeef;" align = "center"> 💻 Project Maintainer at <a href = "https://github.com/Rakesh9100/InstaStore">HSOC'22</a> </td>
-    <td style = "border-right: 1px solid #eeeeef;" align = "center"> 🌟 Contributor at <a href = "https://hacktoberfest.com/">Hacktoberfest'22</a> </td>
-    <td style = "border-right: 1px solid #eeeeef;" align = "center"> 💻 Project Maintainer at <a href = "https://github.com/Rakesh9100/Click-The-Edible-Game">Hacktoberfest'22</a> </td>
-    <td style = "border-right: 1px solid #eeeeef;" align = "center"> 🚀 Milestone 3 at <a href = "https://events.withgoogle.com/googlecloudready-facilitator-program/">GoogleCloudReady Facilitator Program</a> </td>
+    <td align = "center"> 🌟 Web Development & Designing Intern at <a href = "https://oasisinfobyte.com/"><br>Oasis Infobyte</a> <br>in October'22 </td>
+    <td align = "center"> 🌟 Web Development Intern at <a href = "https://internship.thesparksfoundation.info/"><br>The Sparks Foundation</a> <br>in October'22, <b>Received LOR</b> </td>
+    <td align = "center"> 💻 Campus Ambassador Intern at <a href = "https://internbug.wixsite.com/internbug"><br>InternBug</a> <br>in October'22 </td>
+    <td align = "center"> 🌟 Web Development Intern at <a href = "https://codeclause.com/"><br>CodeClause</a> <br>in December'22, <b>Received LOR</b> </td>
+    <td align = "center"> 🌟 Web Developer Intern at <a href = "https://letsgrowmore.in/"><br>LetsGrowMore</a> <br>in December'22, <b>Received LOR</b> </td>
+</td>
   </tr>
 </table>
 
@@ -58,6 +62,16 @@
 <a href = "https://auth.geeksforgeeks.org/user/roshanrakesh7362"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
 <a href = "https://www.cloudskillsboost.google/public_profiles/29e851f3-5a90-4e77-87ae-8b1d1a2c10b3"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"/></a>
 </p><br>
+
+## 👨‍💻 Open Source Contributions
+| S.No. | Open Source Programs | Duration | Role | Rewards |
+|-------|----------------------|----------|------|---------|
+| 1. | GirlScript Summer of Code | 1st Mar - 31st May 2022 | Contributor | [1. Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-top-performer-activity-6962652421214908416-pdZg?utm_source=share&utm_medium=member_desktop)<br> [2. Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_opensource-program-contributor-activity-6994604804513673216-CJfE?utm_source=share&utm_medium=member_desktop) |
+| 2. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Contributor | [Certificate](https://drive.google.com/file/d/167zbwHjw_m7LPksIG2JNu4XO4WHEugSe/view?usp=share_link) |
+| 3. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Project Admin | [Certificate](https://drive.google.com/file/d/1L3K9xfyJ1rj0kSA-Vc0P6hlodb6FWAKO/view?usp=share_link) |
+| 4. | Hacktoberfest | 1st October - 31st October 2022 | Contributor | T-Shirt & Stickers |
+| 5. | Hacktoberfest | 1st October - 31st October 2022 | Project Admin | T-Shirt & Stickers |
+<br>
 
 ## 🔗 Connect with me:
 <p align = "left">
