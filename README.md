@@ -104,7 +104,7 @@
 </details>
 
 <details><summary><h3>🏆 Git profile Trophies</h3></summary>
-<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=midnight-purple&column=5&margin-w=15&margin-h=15" alt = "Trophies"/> </p>
+<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
 </details>
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
