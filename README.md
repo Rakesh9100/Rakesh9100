@@ -99,9 +99,9 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p></details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-<a href = "https://github.com/Rakesh9100"><img src = "https://activity-graph.herokuapp.com/graph?username=Rakesh9100&custom_title=Rakesh's%20Contribution%20Graph&theme=redical" alt = "Rakesh's Activity Graph"/></a>
-</details>
+<h3>⚡ Recent GitHub Activity</h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <details><summary><h3>🏆 Git profile Trophies</h3></summary>
 <p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
