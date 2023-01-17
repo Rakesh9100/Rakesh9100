@@ -189,9 +189,11 @@
 </details>
 <!--END_SECTION:activity-->
 
-<details><summary><h3>🏆 Git profile Trophies</h3></summary>
+<details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
 <p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
 </details>
+
+<h3>💫 GitHub Profile 3D</h3>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
