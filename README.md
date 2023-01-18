@@ -11,7 +11,12 @@
 <img src = "gitartwork.svg" alt = "Gitartwork"></p>
 
 <p align = "center">
-<img src = "https://komarev.com/ghpvc/?username=Rakesh9100&label=Profile%20views&color=0e75b6&style=oval-square" alt = "Rakesh9100"/></p>
+<a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.shields.io/badge/RAKESH%20ROSHAN-blue?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=blue" height="25"></a>
+<a href = "mailto:roshanrakesh7362@gmail.com"><img src = "https://img.shields.io/badge/SAY%2C%20HI-D14836?style=for-the-badge&logo=gmail&labelColor=white&logoColor=D14836" height="25"></a></p>
+
+<p align = "center">
+<img src = "https://komarev.com/ghpvc/?username=Rakesh9100&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"/>
+</p>
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
