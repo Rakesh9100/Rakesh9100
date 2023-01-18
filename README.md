@@ -8,7 +8,11 @@
 <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
 
 <p align = "center">
-<img src = "gitartwork.svg" alt = "Gitartwork"></p>
+<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
+
+<p align = "center">
+<img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
+</p>
 
 <p align = "center">
 <a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.shields.io/badge/RAKESH%20ROSHAN-blue?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=blue" height="25"></a>
