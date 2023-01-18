@@ -189,7 +189,6 @@
 `[10/18 12:18]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kishanrajput23/Coding-Buddies-Community-Contributions](https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions) to [Rakesh9100/Coding-Buddies-Community-Contributions](https://github.com/Rakesh9100/Coding-Buddies-Community-Contributions)  
 `[10/18 11:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#10`](https://github.com//appwrite/demo-quiz-with-android/issues/10 '🚀 Feature: Add a PR Template') in [appwrite/demo-quiz-with-android](https://github.com/appwrite/demo-quiz-with-android)  
 `[10/18 11:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#11`](https://github.com//nitiSHONEEE/Hacktoberfest_2K22/issues/11 'Add Contributing Guideline.md file') in [nitiSHONEEE/Hacktoberfest_2K22](https://github.com/nitiSHONEEE/Hacktoberfest_2K22)  
-`[10/17 16:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
 
 </details>
 <!--END_SECTION:activity-->
