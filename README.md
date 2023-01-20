@@ -192,6 +192,10 @@
 <p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
 </details>
 
+<details><summary><h3>⚡ GitHub Activity Graph</h3></summary>
+<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
+</details>
+
 <h3>💫 GitHub Profile 3D</h3>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
