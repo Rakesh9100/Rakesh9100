@@ -2,7 +2,7 @@
 
 <p align = "center"><img src = "Blue%20and%20White%20Abstract%20Banner.png" alt = "Blue and White Abstract Banner"></p>
 
-[![An image of @rakesh9100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakesh9100)](https://holopin.io/@rakesh9100)
+![Board](https://user-images.githubusercontent.com/73993775/215263455-e1b4f886-e34c-4308-b957-19c84668d63d.png)
 
 <p align = "center">
 <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
