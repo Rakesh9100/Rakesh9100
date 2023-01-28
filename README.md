@@ -111,14 +111,17 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[01/28 14:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
+`[01/28 14:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Greeting-Time/tree/main) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
+`[01/28 14:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[01/28 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Internship-Training-Practice--DSA--CPP](https://github.com/Rakesh9100/Internship-Training-Practice--DSA--CPP)  
 `[01/28 11:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
-`[01/28 04:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [Rakesh9100/Internship-Training-Practice--DSA--CPP](https://github.com/Rakesh9100/Internship-Training-Practice--DSA--CPP)  
-`[01/23 15:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Internship-Training-Practice--CPP](https://github.com/Rakesh9100/Internship-Training-Practice--CPP)  
-`[01/23 09:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Internship-Training-Practice--CPP/tree/main) in [Rakesh9100/Internship-Training-Practice--CPP](https://github.com/Rakesh9100/Internship-Training-Practice--CPP)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[01/28 04:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [Rakesh9100/Internship-Training-Practice--DSA--CPP](https://github.com/Rakesh9100/Internship-Training-Practice--DSA--CPP)  
+`[01/23 15:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Internship-Training-Practice--CPP](https://github.com/Rakesh9100/Internship-Training-Practice--CPP)  
+`[01/23 09:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Internship-Training-Practice--CPP/tree/main) in [Rakesh9100/Internship-Training-Practice--CPP](https://github.com/Rakesh9100/Internship-Training-Practice--CPP)  
 `[01/23 09:30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Internship-Training-Practice--CPP](https://github.com/Rakesh9100/Internship-Training-Practice--CPP)  
 `[01/22 22:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/B.Tech-Study-Materials-LPU---Batch--2020-2024](https://github.com/Rakesh9100/B.Tech-Study-Materials-LPU---Batch--2020-2024)  
 `[01/21 14:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)  
