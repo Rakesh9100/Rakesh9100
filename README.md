@@ -188,7 +188,6 @@
 `[11/08 04:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `100` commits in [Rakesh9100/ML-Crate](https://github.com/Rakesh9100/ML-Crate)  
 `[10/30 21:14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/OIBSIP/tree/main) in [Rakesh9100/OIBSIP](https://github.com/Rakesh9100/OIBSIP)  
 `[10/30 21:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/OIBSIP](https://github.com/Rakesh9100/OIBSIP)  
-`[10/27 04:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
 
 </details>
 <!--END_SECTION:activity-->
