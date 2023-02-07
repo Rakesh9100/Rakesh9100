@@ -234,7 +234,7 @@
 
 <div align="center">
 
-### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = ""> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = "https://rakeshroshan.netlify.app/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
 
 ### Show some ❤️ by starring some of my repositories !!
 </div>
