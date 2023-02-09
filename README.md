@@ -211,9 +211,6 @@
 `[11/09 15:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/OIBSIP](https://github.com/Rakesh9100/OIBSIP)  
 `[11/09 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/The-Sparks-Foundation-Task2](https://github.com/Rakesh9100/The-Sparks-Foundation-Task2)  
 `[11/09 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/The-Sparks-Foundation-Task1](https://github.com/Rakesh9100/The-Sparks-Foundation-Task1)  
-`[11/08 17:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Music-Recommendation-System](https://github.com/Rakesh9100/Music-Recommendation-System)  
-`[11/08 17:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Music-Recommendation-System/tree/main) in [Rakesh9100/Music-Recommendation-System](https://github.com/Rakesh9100/Music-Recommendation-System)  
-`[11/08 17:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Music-Recommendation-System](https://github.com/Rakesh9100/Music-Recommendation-System)  
 
 </details>
 <!--END_SECTION:activity-->
