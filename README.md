@@ -214,7 +214,6 @@
 `[11/08 17:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Music-Recommendation-System](https://github.com/Rakesh9100/Music-Recommendation-System)  
 `[11/08 17:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Music-Recommendation-System/tree/main) in [Rakesh9100/Music-Recommendation-System](https://github.com/Rakesh9100/Music-Recommendation-System)  
 `[11/08 17:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Music-Recommendation-System](https://github.com/Rakesh9100/Music-Recommendation-System)  
-`[11/08 04:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `100` commits in [Rakesh9100/ML-Crate](https://github.com/Rakesh9100/ML-Crate)  
 
 </details>
 <!--END_SECTION:activity-->
