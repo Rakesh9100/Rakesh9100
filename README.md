@@ -208,9 +208,6 @@
 `[12/19 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rakesh9100/Edu-School-Future-Ready-Talent](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent)  
 `[11/15 19:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent/tree/main) in [Rakesh9100/Edu-School-Future-Ready-Talent](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent)  
 `[11/15 19:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Edu-School-Future-Ready-Talent](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent)  
-`[11/09 15:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/OIBSIP](https://github.com/Rakesh9100/OIBSIP)  
-`[11/09 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/The-Sparks-Foundation-Task2](https://github.com/Rakesh9100/The-Sparks-Foundation-Task2)  
-`[11/09 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/The-Sparks-Foundation-Task1](https://github.com/Rakesh9100/The-Sparks-Foundation-Task1)  
 
 </details>
 <!--END_SECTION:activity-->
