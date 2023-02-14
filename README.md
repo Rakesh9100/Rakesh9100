@@ -78,8 +78,8 @@
 | 1. | GirlScript Summer of Code | 1st Mar - 31st May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-top-performer-activity-6962652421214908416-pdZg?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_opensource-program-contributor-activity-6994604804513673216-CJfE?utm_source=share&utm_medium=member_desktop) |
 | 2. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Contributor | [Certificate](https://drive.google.com/file/d/167zbwHjw_m7LPksIG2JNu4XO4WHEugSe/view?usp=share_link) |
 | 3. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Project Admin | [Certificate](https://drive.google.com/file/d/1L3K9xfyJ1rj0kSA-Vc0P6hlodb6FWAKO/view?usp=share_link) |
-| 4. | Hacktoberfest | 1st October - 31st October 2022 | Contributor | T-Shirt & Stickers |
-| 5. | Hacktoberfest | 1st October - 31st October 2022 | Project Admin | T-Shirt & Stickers |
+| 4. | Hacktoberfest | 1st October - 31st October 2022 | Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_hacktoberfest2022-hacktoberfest-github-activity-7025102004079239169-PYOP?utm_source=share&utm_medium=member_desktop) |
+| 5. | Hacktoberfest | 1st October - 31st October 2022 | Project Admin | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_hacktoberfest2022-hacktoberfest-github-activity-7025102004079239169-PYOP?utm_source=share&utm_medium=member_desktop) |
 <br>
 
 ## 🔗 Connect with me:
