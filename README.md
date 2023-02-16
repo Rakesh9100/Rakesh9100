@@ -239,9 +239,7 @@
 `[12/26 06:36]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/LGMVIP-Web](https://github.com/Rakesh9100/LGMVIP-Web)  
 `[12/26 06:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Edu-School-Future-Ready-Talent](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent)  
 `[12/22 18:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [score-spec/spec](https://github.com/score-spec/spec)  
-`[12/19 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rakesh9100/Edu-School-Future-Ready-Talent](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent)  
-`[11/15 19:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent/tree/main) in [Rakesh9100/Edu-School-Future-Ready-Talent](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent)  
-`[11/15 19:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Edu-School-Future-Ready-Talent](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent)  
+`[12/19 19:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Edu-School-Future-Ready-Talent](https://github.com/Rakesh9100/Edu-School-Future-Ready-Talent)  
 
 </details>
 <!--END_SECTION:activity-->
