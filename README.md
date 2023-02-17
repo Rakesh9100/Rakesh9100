@@ -111,14 +111,15 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[02/17 19:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#43`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/43 '#33 issue solved : Added Back icon and Removed Home icon') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/17 19:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#42`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/42 '#33 issue : Removed home icon and added Back icon') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/17 19:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#42`](https://github.com//Rakesh9100/Click-The-Edible-Game/pull/42 '#33 issue : Removed home icon and added Back icon') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/17 19:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#42`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/42 '#33 issue : Removed home icon and added Back icon') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/17 19:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/13 'Design UI of home screen') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/17 19:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//Rakesh9100/hello/issues/3 '2') in [Rakesh9100/hello](https://github.com/Rakesh9100/hello)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/17 19:13]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//Rakesh9100/hello/issues/3 '2') in [Rakesh9100/hello](https://github.com/Rakesh9100/hello)  
 `[02/17 19:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//Rakesh9100/hello/issues/2 '2') in [Rakesh9100/hello](https://github.com/Rakesh9100/hello)  
 `[02/17 19:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//Rakesh9100/hello/issues/1 '1') in [Rakesh9100/hello](https://github.com/Rakesh9100/hello)  
 `[02/17 19:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/hello/tree/main) in [Rakesh9100/hello](https://github.com/Rakesh9100/hello)  
@@ -290,7 +291,6 @@
 `[01/18 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
 `[01/18 12:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1666`](https://github.com//EddieHubCommunity/awesome-github-profiles/issues/1666 'fix: add rakesh9100') in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)  
 `[01/18 00:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
-`[01/17 19:33]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1666`](https://github.com//EddieHubCommunity/awesome-github-profiles/pull/1666 'fix: add rakesh9100') in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)  
 
 </details>
 <!--END_SECTION:activity-->
