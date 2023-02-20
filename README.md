@@ -111,7 +111,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[02/20 17:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[02/20 18:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/20 17:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`custom-bot`](https://github.com/Rakesh9100/Click-The-Edible-Game/tree/custom-bot) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/20 17:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/60 '#59 issue resolved : added a function to stop sudden reloading during…') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/20 16:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#60`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/60 '#59 issue resolved : added a function to stop sudden reloading during…') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
@@ -311,8 +311,6 @@
 `[02/15 14:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#19`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/19 'Making a dark theme of the game and enhance the UI') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/15 14:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/15 'Home button is not working. ') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/15 14:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#19`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/19 'Making a dark theme of the game and enhance the UI') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/15 07:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#18`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/18 'Add pause menu') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/15 07:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/B.Tech-Study-Materials-LPU---Batch--2020-2024](https://github.com/Rakesh9100/B.Tech-Study-Materials-LPU---Batch--2020-2024)  
 
 </details>
 <!--END_SECTION:activity-->
