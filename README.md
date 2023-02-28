@@ -111,14 +111,16 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[02/28 17:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/EnlightenHeavens](https://github.com/Rakesh9100/EnlightenHeavens)  
+`[02/28 17:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#85`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/85 'made changes for the UI ') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/28 17:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/Rakesh9100/EnlightenHeavens/tree/gh-pages) in [Rakesh9100/EnlightenHeavens](https://github.com/Rakesh9100/EnlightenHeavens)  
 `[02/28 17:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/EnlightenHeavens/tree/main) in [Rakesh9100/EnlightenHeavens](https://github.com/Rakesh9100/EnlightenHeavens)  
 `[02/28 17:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/EnlightenHeavens](https://github.com/Rakesh9100/EnlightenHeavens)  
-`[02/28 17:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/TestWordpress](https://github.com/Rakesh9100/TestWordpress)  
-`[02/28 16:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Test](https://github.com/Rakesh9100/Test)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[02/28 17:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/TestWordpress](https://github.com/Rakesh9100/TestWordpress)  
+`[02/28 16:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Test](https://github.com/Rakesh9100/Test)  
 `[02/28 16:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Test/tree/main) in [Rakesh9100/Test](https://github.com/Rakesh9100/Test)  
 `[02/28 16:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Test](https://github.com/Rakesh9100/Test)  
 `[02/28 16:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#85`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/85 'made changes for the UI ') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
@@ -326,8 +328,6 @@
 `[02/17 19:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#36`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/36 'Footer') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/17 19:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#36`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/36 'Footer') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/17 19:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#42`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/42 '#33 issue : Removed home icon and added Back icon') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/17 19:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#41`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/41 '#19 issue  resolved.') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/17 19:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 
 </details>
 <!--END_SECTION:activity-->
