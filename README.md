@@ -111,14 +111,15 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[03/12 18:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#119`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/119 'Language Translator') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 17:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#119`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/119 'Language Translator') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 12:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#116`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/116 'Link is not working in README.md') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 12:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 12:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#118`](https://github.com//Rakesh9100/Click-The-Edible-Game/pull/118 'link fixed') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[03/12 12:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#118`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/118 'link fixed') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[03/12 12:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#118`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/118 'link fixed') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 11:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#117`](https://github.com//Rakesh9100/Click-The-Edible-Game/pull/117 'Link is fixed') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 11:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#117`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/117 'Link is fixed') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 11:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#115`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/115 'Report bug') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
@@ -312,7 +313,6 @@
 `[02/22 08:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#29`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/29 'A scroll down should be added ') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/22 08:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#70`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/70 'right click restrict on the game page') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/22 08:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#29`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/29 'A scroll down should be added ') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/21 20:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/My-Portfolio-Website](https://github.com/Rakesh9100/My-Portfolio-Website)  
 
 </details>
 <!--END_SECTION:activity-->
