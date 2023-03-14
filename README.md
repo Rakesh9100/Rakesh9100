@@ -111,14 +111,18 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[03/14 06:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#120`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/120 '108 highscore') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[03/14 06:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#108`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/108 '[Feature] Adding High Score on Game Over') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[03/14 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[03/14 06:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#120`](https://github.com//Rakesh9100/Click-The-Edible-Game/pull/120 '108 highscore') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/14 06:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#120`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/120 '108 highscore') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[03/14 06:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#120`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/120 '108 highscore') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/13 18:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#113`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/113 'Add report a bug page') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 21:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#121`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/121 'Language Translator') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 19:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#120`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/120 '108 highscore') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[03/12 18:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#120`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/120 '108 highscore') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 18:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#120`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/120 '108 highscore') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[03/12 18:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#120`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/120 '108 highscore') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
@@ -308,9 +312,6 @@
 `[02/23 06:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#59`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/59 'Prevent Refresh') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/23 06:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/23 06:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#75`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/75 'Prevented refresh while playing') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/23 06:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/74 '#70 issue solved') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/23 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/23 05:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#70`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/70 'right click restrict on the game page') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 
 </details>
 <!--END_SECTION:activity-->
