@@ -111,7 +111,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[03/28 15:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/InternPe](https://github.com/Rakesh9100/InternPe)  
+`[03/28 15:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/InternPe](https://github.com/Rakesh9100/InternPe)  
 `[03/26 09:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [questdb/questdb](https://github.com/questdb/questdb)  
 `[03/24 20:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/InternPe/tree/main) in [Rakesh9100/InternPe](https://github.com/Rakesh9100/InternPe)  
 `[03/24 20:15]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/InternPe](https://github.com/Rakesh9100/InternPe)  
@@ -313,7 +313,6 @@
 `[02/27 19:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/13 'Design UI of home screen') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/27 19:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/13 'Design UI of home screen') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/27 19:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/13 'Design UI of home screen') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-`[02/27 16:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#83`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/83 'Updated UI') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 
 </details>
 <!--END_SECTION:activity-->
