@@ -111,7 +111,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[05/01 17:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/B.Tech-Study-Materials-LPU---Batch--2020-2024](https://github.com/Rakesh9100/B.Tech-Study-Materials-LPU---Batch--2020-2024)  
+`[05/01 19:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rakesh9100/B.Tech-Study-Materials-LPU---Batch--2020-2024](https://github.com/Rakesh9100/B.Tech-Study-Materials-LPU---Batch--2020-2024)  
 `[04/26 21:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/My-Portfolio-Website](https://github.com/Rakesh9100/My-Portfolio-Website)  
 `[04/20 19:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rakesh9100/RakeshRoshan_FrontEnd](https://github.com/Rakesh9100/RakeshRoshan_FrontEnd)  
 `[04/20 16:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/RakeshRoshan_FrontEnd/tree/main) in [Rakesh9100/RakeshRoshan_FrontEnd](https://github.com/Rakesh9100/RakeshRoshan_FrontEnd)  
@@ -303,7 +303,6 @@
 `[02/28 17:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#85`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/85 'made changes for the UI ') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[02/28 17:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/Rakesh9100/EnlightenHeavens/tree/gh-pages) in [Rakesh9100/EnlightenHeavens](https://github.com/Rakesh9100/EnlightenHeavens)  
 `[02/28 17:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/EnlightenHeavens/tree/main) in [Rakesh9100/EnlightenHeavens](https://github.com/Rakesh9100/EnlightenHeavens)  
-`[02/28 17:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/EnlightenHeavens](https://github.com/Rakesh9100/EnlightenHeavens)  
 
 </details>
 <!--END_SECTION:activity-->
