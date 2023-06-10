@@ -111,7 +111,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[06/10 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Calculator-API-NodeJS](https://github.com/Rakesh9100/Calculator-API-NodeJS)  
+`[06/10 11:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Calculator-API-NodeJS](https://github.com/Rakesh9100/Calculator-API-NodeJS)  
 `[06/10 10:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Calculator-API-NodeJS/tree/main) in [Rakesh9100/Calculator-API-NodeJS](https://github.com/Rakesh9100/Calculator-API-NodeJS)  
 `[06/10 10:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Calculator-API-NodeJS](https://github.com/Rakesh9100/Calculator-API-NodeJS)  
 `[06/10 10:22]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#747`](https://github.com//akshitagupta15june/Moksh/issues/747 'adding hover effect to the navbar') in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)  
@@ -318,7 +318,6 @@
 `[05/27 13:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#57`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/57 'Missing some  Issue Template in Repository') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[05/27 13:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#41`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/41 'Creating a RandomForest Model supported by RandomizedSearchCV') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[05/27 13:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[05/27 13:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#64`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/64 'Added RandomForest and Updated with the changes pointed out.') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
 <!--END_SECTION:activity-->
