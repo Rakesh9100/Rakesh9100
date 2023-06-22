@@ -303,7 +303,7 @@
 </details>
 
 <details><summary><h3>⚡ GitHub Activity Graph</h3></summary>
-<p align = "center"> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
+<p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 </details>
 
 <h3>💫 GitHub Profile 3D</h3>
