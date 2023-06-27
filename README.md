@@ -293,7 +293,6 @@
 `[06/09 09:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/74 'Changing word embedding technique from Tf-Idf to Word2Vec') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[06/09 08:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#74`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/74 'Changing word embedding technique from Tf-Idf to Word2Vec') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[06/09 04:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[06/09 04:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/LPU-Nodejs-Training/tree/main) in [Rakesh9100/LPU-Nodejs-Training](https://github.com/Rakesh9100/LPU-Nodejs-Training)  
 
 </details>
 <!--END_SECTION:activity-->
