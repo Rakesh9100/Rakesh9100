@@ -111,14 +111,15 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[07/17 10:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
 `[07/16 11:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#149`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/149 'Adding models[gssoc23]') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/16 11:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#149`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/149 'Adding models[gssoc23]') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/16 11:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#140`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/140 'Updating results images') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/16 11:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#140`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/140 'Updating results images') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[07/16 10:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/136 'Embedding layers with LSTM, GRU and Convo1D are added.') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[07/16 10:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/136 'Embedding layers with LSTM, GRU and Convo1D are added.') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/15 12:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/15 04:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#140`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/140 'Updating results images') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/13 17:56]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/136 'Embedding layers with LSTM, GRU and Convo1D are added.') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
@@ -307,7 +308,6 @@
 `[06/18 12:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)  
 `[06/18 12:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)  
 `[06/18 12:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)  
-`[06/18 12:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  
 
 </details>
 <!--END_SECTION:activity-->
