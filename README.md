@@ -303,7 +303,6 @@
 `[06/28 12:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#126`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/126 'Modified with comments') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[06/28 12:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#130`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/130 'Add bar graph and line graphs') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[06/28 12:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#130`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/130 'Add bar graph and line graphs') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[06/27 14:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#126`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/126 'Modified with comments') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
 <!--END_SECTION:activity-->
