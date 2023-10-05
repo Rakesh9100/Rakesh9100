@@ -265,7 +265,6 @@
 `[07/05 18:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#94`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/94 'Optimize the hyperparameters of the existing ML models to improve their performance') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/05 18:13]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//Rakesh9100/Instagram-Clone/pull/1 'Update README.md') in [Rakesh9100/Instagram-Clone](https://github.com/Rakesh9100/Instagram-Clone)  
 `[07/05 17:25]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#136`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/136 'Embedding layers with LSTM, GRU and Convo1D are added.') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[07/04 08:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
 <!--END_SECTION:activity-->
