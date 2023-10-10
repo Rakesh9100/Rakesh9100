@@ -246,7 +246,6 @@
 `[07/10 09:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#143`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/143 'Bump numpy from 1.25.0 to 1.25.1') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/10 09:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#142`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/142 'Update main.py') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[07/10 09:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#142`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/142 'Update main.py') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[07/09 17:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#108`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/108 'Improving accuracy using ensemble learning') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
 <!--END_SECTION:activity-->
