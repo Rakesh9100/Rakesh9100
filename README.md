@@ -111,14 +111,18 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[10/15 19:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kushal-156/web-page](https://github.com/kushal-156/web-page) to [Rakesh9100/web-page](https://github.com/Rakesh9100/web-page)  
+`[10/15 19:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kushal-156/web-page](https://github.com/kushal-156/web-page)  
+`[10/15 18:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//tecky708/app/pull/20 'Contributing Guidelines and Code of Conduct Added') in [tecky708/app](https://github.com/tecky708/app)  
+`[10/15 18:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/app](https://github.com/Rakesh9100/app)  
 `[10/15 18:50]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tecky708/app](https://github.com/tecky708/app) to [Rakesh9100/app](https://github.com/Rakesh9100/app)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/15 18:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tecky708/app](https://github.com/tecky708/app)  
 `[10/15 18:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#19`](https://github.com//tecky708/app/issues/19 'Contributing Guidelines') in [tecky708/app](https://github.com/tecky708/app)  
 `[10/04 17:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#175`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/175 'Bump seaborn from 0.12.2 to 0.13.0') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[10/04 17:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/04 17:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#174`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/174 'Bump catboost from 1.2.1.1 to 1.2.2') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[10/04 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[10/04 17:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#173`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/173 'Bump scikit-learn from 1.3.0 to 1.3.1') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
