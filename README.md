@@ -111,14 +111,19 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[10/15 19:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#268`](https://github.com//ossamamehmood/Hacktoberfest2023/pull/268 'Adding Password Generator System Project') in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)  
+`[10/15 19:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/Hacktoberfest2023](https://github.com/Rakesh9100/Hacktoberfest2023)  
+`[10/15 19:37]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) to [Rakesh9100/Hacktoberfest2023](https://github.com/Rakesh9100/Hacktoberfest2023)  
+`[10/15 19:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)  
+`[10/15 19:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#267`](https://github.com//ossamamehmood/Hacktoberfest2023/issues/267 'Password Generator System') in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/15 19:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#75`](https://github.com//surajsharma14/Web-Dev-Project-for-Hacktoberfest2023/issues/75 'Responsive Sticky Navbar') in [surajsharma14/Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)  
 `[10/15 19:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#74`](https://github.com//surajsharma14/Web-Dev-Project-for-Hacktoberfest2023/pull/74 'Adding Responsive Sticky Navbar') in [surajsharma14/Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)  
 `[10/15 19:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/Web-Dev-Project-for-Hacktoberfest2023](https://github.com/Rakesh9100/Web-Dev-Project-for-Hacktoberfest2023)  
 `[10/15 19:15]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [surajsharma14/Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023) to [Rakesh9100/Web-Dev-Project-for-Hacktoberfest2023](https://github.com/Rakesh9100/Web-Dev-Project-for-Hacktoberfest2023)  
 `[10/15 19:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [surajsharma14/Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/15 19:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//kushal-156/web-page/pull/7 'Create ContactForm.html') in [kushal-156/web-page](https://github.com/kushal-156/web-page)  
 `[10/15 19:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/web-page](https://github.com/Rakesh9100/web-page)  
 `[10/15 19:06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kushal-156/web-page](https://github.com/kushal-156/web-page) to [Rakesh9100/web-page](https://github.com/Rakesh9100/web-page)  
