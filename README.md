@@ -111,14 +111,22 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[10/16 16:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#14`](https://github.com//surajsharma14/Pepsi/pull/14 'Added Code of Conduct and Contributing.md') in [surajsharma14/Pepsi](https://github.com/surajsharma14/Pepsi)  
+`[10/16 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Pepsi](https://github.com/Rakesh9100/Pepsi)  
+`[10/16 16:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [surajsharma14/Pepsi](https://github.com/surajsharma14/Pepsi) to [Rakesh9100/Pepsi](https://github.com/Rakesh9100/Pepsi)  
+`[10/16 16:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [surajsharma14/Pepsi](https://github.com/surajsharma14/Pepsi)  
+`[10/16 16:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#13`](https://github.com//surajsharma14/Pepsi/issues/13 'Code of Conduct') in [surajsharma14/Pepsi](https://github.com/surajsharma14/Pepsi)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[10/16 16:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#38`](https://github.com//tecky708/app/pull/38 'Responsive Sticky Navbar added') in [tecky708/app](https://github.com/tecky708/app)  
+`[10/16 16:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [Rakesh9100/app](https://github.com/Rakesh9100/app)  
+`[10/16 16:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#37`](https://github.com//tecky708/app/issues/37 'Adding Responsive Sticky Navbar') in [tecky708/app](https://github.com/tecky708/app)  
 `[10/16 08:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#74`](https://github.com//surajsharma14/Web-Dev-Project-for-Hacktoberfest2023/pull/74 'Adding Responsive Sticky Navbar') in [surajsharma14/Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)  
 `[10/16 08:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#75`](https://github.com//surajsharma14/Web-Dev-Project-for-Hacktoberfest2023/issues/75 'Responsive Sticky Navbar') in [surajsharma14/Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023)  
 `[10/16 08:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#268`](https://github.com//ossamamehmood/Hacktoberfest2023/pull/268 'Adding Password Generator System Project') in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)  
 `[10/16 08:00]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#267`](https://github.com//ossamamehmood/Hacktoberfest2023/issues/267 'Password Generator System') in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)  
 `[10/16 06:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/16 06:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#176`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/176 'Bump numpy from 1.26.0 to 1.26.1') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[10/15 19:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#268`](https://github.com//ossamamehmood/Hacktoberfest2023/pull/268 'Adding Password Generator System Project') in [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023)  
 `[10/15 19:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/Hacktoberfest2023](https://github.com/Rakesh9100/Hacktoberfest2023)  
