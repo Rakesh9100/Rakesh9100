@@ -111,14 +111,18 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[10/22 15:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#132`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/132 'Enhancement: Allow Custom GamePlay Time Durations') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[10/22 15:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[10/22 15:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#133`](https://github.com//Rakesh9100/Click-The-Edible-Game/pull/133 'Feature Enhancement: Customizable GamePlay Time Duration') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[10/22 15:30]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#133`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/133 'Feature Enhancement: Customizable GamePlay Time Duration') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/22 14:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#133`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/133 'Feature Enhancement: Customizable GamePlay Time Duration') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/21 07:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#132`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/132 'Enhancement: Allow Custom GamePlay Time Durations') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/16 16:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#14`](https://github.com//surajsharma14/Pepsi/pull/14 'Added Code of Conduct and Contributing.md') in [surajsharma14/Pepsi](https://github.com/surajsharma14/Pepsi)  
 `[10/16 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Pepsi](https://github.com/Rakesh9100/Pepsi)  
 `[10/16 16:16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [surajsharma14/Pepsi](https://github.com/surajsharma14/Pepsi) to [Rakesh9100/Pepsi](https://github.com/Rakesh9100/Pepsi)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/16 16:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [surajsharma14/Pepsi](https://github.com/surajsharma14/Pepsi)  
 `[10/16 16:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#13`](https://github.com//surajsharma14/Pepsi/issues/13 'Code of Conduct') in [surajsharma14/Pepsi](https://github.com/surajsharma14/Pepsi)  
 `[10/16 16:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#38`](https://github.com//tecky708/app/pull/38 'Responsive Sticky Navbar added') in [tecky708/app](https://github.com/tecky708/app)  
