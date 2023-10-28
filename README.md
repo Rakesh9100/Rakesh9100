@@ -111,14 +111,18 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[10/28 19:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Number-of-Days-Calculator](https://github.com/Rakesh9100/Number-of-Days-Calculator)  
+`[10/28 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/3D-Shapes-Volume-Calculator](https://github.com/Rakesh9100/3D-Shapes-Volume-Calculator)  
+`[10/28 19:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Bank-Management-System](https://github.com/Rakesh9100/Bank-Management-System)  
+`[10/28 19:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Google-Pay-Clone](https://github.com/Rakesh9100/Google-Pay-Clone)  
 `[10/28 19:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#142`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/142 'Updated Readme Screenshots and Introduction Section') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/28 19:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#140`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/140 'Improving Responsiveness of Scrollbar') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 19:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#136`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/136 'Feature Enhancement: Adding bombs and lives to the game') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 19:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#143`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/143 'Improvement: Adding UI for scrollbar in dark mode') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 19:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/InstaStore](https://github.com/Rakesh9100/InstaStore)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Rakesh9100/Dev-Scripts](https://github.com/Rakesh9100/Dev-Scripts)  
 `[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [Rakesh9100/Clone-IT](https://github.com/Rakesh9100/Clone-IT)  
 `[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `442` commits in [Rakesh9100/Project-Guidance](https://github.com/Rakesh9100/Project-Guidance)  
