@@ -111,14 +111,15 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[10/28 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/InstaStore](https://github.com/Rakesh9100/InstaStore)  
 `[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Rakesh9100/Dev-Scripts](https://github.com/Rakesh9100/Dev-Scripts)  
 `[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [Rakesh9100/Clone-IT](https://github.com/Rakesh9100/Clone-IT)  
 `[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `442` commits in [Rakesh9100/Project-Guidance](https://github.com/Rakesh9100/Project-Guidance)  
 `[10/28 17:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `212` commits in [Rakesh9100/Embellish](https://github.com/Rakesh9100/Embellish)  
-`[10/28 17:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `43` commits in [Rakesh9100/CalcHub](https://github.com/Rakesh9100/CalcHub)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[10/28 17:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `43` commits in [Rakesh9100/CalcHub](https://github.com/Rakesh9100/CalcHub)  
 `[10/28 17:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `199` commits in [Rakesh9100/30DaysOfJavaScript](https://github.com/Rakesh9100/30DaysOfJavaScript)  
 `[10/28 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [Rakesh9100/Bundli-Frontend](https://github.com/Rakesh9100/Bundli-Frontend)  
 `[10/28 17:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#138`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/138 'Feature: Adding new sound effects for better UX') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
