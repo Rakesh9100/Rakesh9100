@@ -111,14 +111,21 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Rakesh9100/Dev-Scripts](https://github.com/Rakesh9100/Dev-Scripts)  
+`[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `49` commits in [Rakesh9100/Clone-IT](https://github.com/Rakesh9100/Clone-IT)  
+`[10/28 17:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `442` commits in [Rakesh9100/Project-Guidance](https://github.com/Rakesh9100/Project-Guidance)  
+`[10/28 17:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `212` commits in [Rakesh9100/Embellish](https://github.com/Rakesh9100/Embellish)  
+`[10/28 17:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `43` commits in [Rakesh9100/CalcHub](https://github.com/Rakesh9100/CalcHub)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
+`[10/28 17:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `199` commits in [Rakesh9100/30DaysOfJavaScript](https://github.com/Rakesh9100/30DaysOfJavaScript)  
+`[10/28 17:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `36` commits in [Rakesh9100/Bundli-Frontend](https://github.com/Rakesh9100/Bundli-Frontend)  
 `[10/28 17:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#138`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/138 'Feature: Adding new sound effects for better UX') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 17:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#142`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/142 'Updated Readme Screenshots and Introduction Section') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 17:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#137`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/137 'Update: Update the readme.md') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 17:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 17:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#142`](https://github.com//Rakesh9100/Click-The-Edible-Game/pull/142 'Updated Readme Screenshots and Introduction Section') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/28 16:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#141`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/141 'feat: Adding twitter icon in footer') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 16:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#141`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/141 'feat: Adding twitter icon in footer') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/27 18:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#140`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/140 'Improving Responsiveness of Scrollbar') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
