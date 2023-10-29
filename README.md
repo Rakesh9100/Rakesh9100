@@ -111,14 +111,18 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[10/29 05:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#144`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/144 'update in Scrollbar to match dark-colour-aesthetic for dark mode') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[10/29 05:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#144`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/144 'update in Scrollbar to match dark-colour-aesthetic for dark mode') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[10/29 05:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#138`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/138 'Feature: Adding new sound effects for better UX') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
+`[10/29 05:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#138`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/138 'Feature: Adding new sound effects for better UX') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[10/28 20:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Music-Recommendation-System](https://github.com/Rakesh9100/Music-Recommendation-System)  
+
+<details><summary><b> ⚙️ Show Older Activity</b></summary>
+
 `[10/28 20:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/EnlightenHeavens](https://github.com/Rakesh9100/EnlightenHeavens)  
 `[10/28 20:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `501` commits in [Rakesh9100/github-readme-stats](https://github.com/Rakesh9100/github-readme-stats)  
 `[10/28 20:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `204` commits in [Rakesh9100/awesome-github-profiles](https://github.com/Rakesh9100/awesome-github-profiles)  
 `[10/28 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `287` commits in [Rakesh9100/ML-Crate](https://github.com/Rakesh9100/ML-Crate)  
-
-<details><summary><b> ⚙️ Show Older Activity</b></summary>
-
 `[10/28 20:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Blog-Portal](https://github.com/Rakesh9100/Blog-Portal)  
 `[10/28 19:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Number-of-Days-Calculator](https://github.com/Rakesh9100/Number-of-Days-Calculator)  
 `[10/28 19:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/3D-Shapes-Volume-Calculator](https://github.com/Rakesh9100/3D-Shapes-Volume-Calculator)  
