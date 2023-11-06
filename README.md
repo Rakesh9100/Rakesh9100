@@ -111,14 +111,16 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[11/06 06:18]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.2.0-alpha`](https://github.com/Rakesh9100/mlops-on-gcp/releases/tag/v0.2.0-alpha) in [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
+`[11/06 06:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v1.0.0` from [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
 `[11/06 06:02]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/Rakesh9100/mlops-on-gcp/releases/tag/v1.0.0) in [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
 `[11/06 05:58]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v0.2.0-alpha` from [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
 `[11/06 05:54]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v0.2.0-alpha`](https://github.com/Rakesh9100/mlops-on-gcp/releases/tag/v0.2.0-alpha) in [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
-`[11/06 05:54]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v1.0.0` from [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
-`[11/06 05:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v2.3.4` from [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/06 05:54]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v1.0.0` from [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
+`[11/06 05:53]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `v2.3.4` from [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
 `[11/06 05:53]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/Rakesh9100/mlops-on-gcp/releases/tag/v1.0.0) in [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
 `[11/06 05:51]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v2.3.4`](https://github.com/Rakesh9100/mlops-on-gcp/releases/tag/v2.3.4) in [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
 `[11/06 05:45]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v1.0.0`](https://github.com/Rakesh9100/mlops-on-gcp/releases/tag/v1.0.0) in [Rakesh9100/mlops-on-gcp](https://github.com/Rakesh9100/mlops-on-gcp)  
