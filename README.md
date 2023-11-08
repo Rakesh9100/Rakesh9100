@@ -111,7 +111,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[11/07 16:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
+`[11/08 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
 `[11/06 14:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript/tree/main) in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
 `[11/06 14:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
 `[11/06 07:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#184`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/184 'Update the Test Results in Readme') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
@@ -339,7 +339,6 @@
 `[08/14 07:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#162`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/162 'Bump optuna from 3.2.0 to 3.3.0') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[08/14 07:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[08/13 11:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#154`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/154 '[GSSOC\'23] Readme file update') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[08/13 11:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#124`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/124 '[FEATURE] Adding Logging module for storing the logs') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
 <!--END_SECTION:activity-->
