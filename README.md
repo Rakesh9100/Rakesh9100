@@ -111,7 +111,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[11/12 18:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
+`[11/13 17:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
 `[11/06 14:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript/tree/main) in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
 `[11/06 14:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
 `[11/06 07:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#184`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/184 'Update the Test Results in Readme') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
@@ -336,7 +336,6 @@
 `[08/20 08:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#161`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/issues/161 'Update main.py with some EDA and data  visualizations [GSSOC\'23]') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[08/20 08:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#161`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/161 'Update main.py with some EDA and data  visualizations [GSSOC\'23]') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[08/20 08:50]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#157`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/157 'sarima added in Codebase') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[08/14 07:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#162`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/162 'Bump optuna from 3.2.0 to 3.3.0') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
 <!--END_SECTION:activity-->
