@@ -111,7 +111,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[11/15 17:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
+`[11/16 15:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
 `[11/15 05:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[11/15 05:54]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#189`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/189 'Bump black from 23.10.1 to 23.11.0') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[11/15 05:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
@@ -340,7 +340,6 @@
 `[09/02 07:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [scaleracademy/scaler-open-source-september-challenge](https://github.com/scaleracademy/scaler-open-source-september-challenge) to [Rakesh9100/scaler-open-source-september-challenge](https://github.com/Rakesh9100/scaler-open-source-september-challenge)  
 `[09/02 00:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#406`](https://github.com//scaleracademy/scaler-open-source-september-challenge/issues/406 'Challenge #1 - Rakesh Roshan') in [scaleracademy/scaler-open-source-september-challenge](https://github.com/scaleracademy/scaler-open-source-september-challenge)  
 `[09/02 00:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scaleracademy/scaler-open-source-september-challenge](https://github.com/scaleracademy/scaler-open-source-september-challenge)  
-`[08/29 17:42]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/gensim-4.3.2` from [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
 <!--END_SECTION:activity-->
