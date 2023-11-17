@@ -1,6 +1,6 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> </h1>
 
-<p align = "center"><img src = "Blue%20and%20White%20Abstract%20Banner.png" alt = "Blue and White Abstract Banner"></p>
+<p align = "center"><img src = "Blue-and-White-Abstract-Banner.jpg" alt = "Blue and White Abstract Banner"></p>
 
 [![My Hacktoberfest Holopin Badges](https://holopin.me/rakesh9100)](https://holopin.io/@rakesh9100)
 
