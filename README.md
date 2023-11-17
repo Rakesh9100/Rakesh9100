@@ -111,14 +111,15 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
+`[11/17 18:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
 `[11/17 18:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Rakesh9100/Greeting-Time/issues/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[11/17 18:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Rakesh9100/Greeting-Time/issues/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[11/17 18:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//Rakesh9100/Greeting-Time/issues/3 'Updating Readme file for Quotes') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[11/17 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
-`[11/17 18:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//Rakesh9100/Greeting-Time/pull/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
+`[11/17 18:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//Rakesh9100/Greeting-Time/pull/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[11/17 17:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#155`](https://github.com//Rakesh9100/Click-The-Edible-Game/issues/155 'Feature: Uploading Edible functionality') in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)  
 `[11/17 10:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
 `[11/16 17:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Thinkright20/Profile-Badges](https://github.com/Thinkright20/Profile-Badges)  
@@ -339,7 +340,6 @@
 `[09/04 17:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/catboost-1.2.1` from [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[09/04 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[09/04 17:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#164`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/164 'Bump catboost from 1.2 to 1.2.1') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[09/03 08:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#406`](https://github.com//scaleracademy/scaler-open-source-september-challenge/issues/406 'Challenge #1 - Rakesh Roshan') in [scaleracademy/scaler-open-source-september-challenge](https://github.com/scaleracademy/scaler-open-source-september-challenge)  
 
 </details>
 <!--END_SECTION:activity-->
