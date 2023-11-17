@@ -1,4 +1,4 @@
-<h1 align = "center">Hi, Everyone!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 30px width = 30px> </h1>
+<h1 align = "center">Hi, Everyone!! <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283921041-ee96ba74-1bed-4ea6-b9d9-a20d8aef1938.gif" height = 30px width = 30px> </h1>
 
 <p align = "center"><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283915008-3c9ae070-eb90-4323-bc0d-ab964c8a0ff6.png" alt = "Blue and White Abstract Banner"></p>
 
@@ -6,9 +6,6 @@
 
 <p align = "center">
 <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
-
-<p align = "center">
-<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
 
 <p align = "center">
 <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
