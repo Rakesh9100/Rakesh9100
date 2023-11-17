@@ -21,15 +21,15 @@
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
-<picture> <img align = "right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## <picture> <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 50px>  </picture> About Me
+<picture> <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></picture>
 - 🏫 I am a 3<sup>rd</sup> year CSE Student at [`Lovely Professional University`](https://www.lpu.in).
 - 🧑‍💻 Love Coding in C and C++ mostly.
 - 🙂 Open Source Contributor at [`GSSoC'22`](https://gssoc.girlscript.tech/).
 - ⭐ Secured 46<sup>th</sup> Rank Globally & Received `Letter of Recommendation` in [`GSSoC'22`](https://gssoc.girlscript.tech/).
 - ⭐ 3<sup>rd</sup> Milestone in [`GoogleCloudReady Facilitator Program'22`](https://events.withgoogle.com/googlecloudready-facilitator-program/).
-- 🙂 Contributor & Project Admin at [`HSOC'22`](https://soc.hackclubrait.co/).
-- ⭐ Secured 6<sup>th</sup> Rank Globally in [`HSOC'22`](https://soc.hackclubrait.co/).
+- 🙂 Contributor & Project Admin at [`HSOC'22`](https://hackclubrait.github.io/).
+- ⭐ Secured 6<sup>th</sup> Rank Globally in [`HSOC'22`](https://hackclubrait.github.io/).
 - 🙂 Contributor & Project Maintainer at [`Hacktoberfest'22`](https://hacktoberfest.com/).
 - ⭐ 9 PRs merged in [`Hacktoberfest'22`](https://hacktoberfest.com/).
 - 🤓 Always in a try to `learn new things`.
@@ -41,7 +41,6 @@
     <td align = "center"> 💻 Campus Ambassador Intern at <a href = "https://internbug.wixsite.com/internbug"><br>InternBug</a> <br>in October'22 </td>
     <td align = "center"> 🌟 Web Development Intern at <a href = "https://codeclause.com/"><br>CodeClause</a> <br>in December'22, <b>Received LOR</b> </td>
     <td align = "center"> 🌟 Web Developer Intern at <a href = "https://letsgrowmore.in/"><br>LetsGrowMore</a> <br>in December'22, <b>Received LOR</b> </td>
-</td>
   </tr>
 </table>
 
@@ -72,11 +71,11 @@
 ## 👨‍💻 Open Source Contributions
 | S.No. | Open Source Programs | Duration | Role | Rewards |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1. | GirlScript Summer of Code | 1st Mar - 31st May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-top-performer-activity-6962652421214908416-pdZg?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_opensource-program-contributor-activity-6994604804513673216-CJfE?utm_source=share&utm_medium=member_desktop) |
+| 1. | GirlScript Summer of Code | 1st Mar - 31st May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
 | 2. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Contributor | [Certificate](https://drive.google.com/file/d/167zbwHjw_m7LPksIG2JNu4XO4WHEugSe/view?usp=share_link) |
 | 3. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Project Admin | [Certificate](https://drive.google.com/file/d/1L3K9xfyJ1rj0kSA-Vc0P6hlodb6FWAKO/view?usp=share_link) |
-| 4. | Hacktoberfest | 1st October - 31st October 2022 | Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_hacktoberfest2022-hacktoberfest-github-activity-7025102004079239169-PYOP?utm_source=share&utm_medium=member_desktop) |
-| 5. | Hacktoberfest | 1st October - 31st October 2022 | Project Admin | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_hacktoberfest2022-hacktoberfest-github-activity-7025102004079239169-PYOP?utm_source=share&utm_medium=member_desktop) |
+| 4. | Hacktoberfest | 1st October - 31st October 2022 | Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
+| 5. | Hacktoberfest | 1st October - 31st October 2022 | Project Admin | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
 <br>
 
 ## 🔗 Connect with me:
@@ -90,7 +89,7 @@
 
 <p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Github Stats
+## <picture> <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>  </picture> My Github Stats
 
 <details><summary><h3>🔥 Streak Stats</h3></summary>
 <p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=rakesh9100&theme=midnight-purple" alt = "Rakesh9100"/></p>
@@ -108,7 +107,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[11/17 20:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
+`[11/17 19:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
 `[11/17 18:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Rakesh9100/Greeting-Time/issues/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[11/17 18:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Rakesh9100/Greeting-Time/issues/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[11/17 18:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//Rakesh9100/Greeting-Time/issues/3 'Updating Readme file for Quotes') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
@@ -334,6 +333,8 @@
 `[09/04 17:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/pandas-2.1.0` from [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[09/04 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[09/04 17:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#165`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/165 'Bump pandas from 2.0.3 to 2.1.0') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
+`[09/04 17:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/catboost-1.2.1` from [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
+`[09/04 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
 <!--END_SECTION:activity-->
