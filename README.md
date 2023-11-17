@@ -107,7 +107,7 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[11/17 19:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
+`[11/17 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
 `[11/17 18:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Rakesh9100/Greeting-Time/issues/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[11/17 18:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Rakesh9100/Greeting-Time/issues/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
 `[11/17 18:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//Rakesh9100/Greeting-Time/issues/3 'Updating Readme file for Quotes') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
@@ -331,9 +331,6 @@
 `[09/08 19:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `rakesh9100-details` from [Rakesh9100/scaler-open-source-september-challenge](https://github.com/Rakesh9100/scaler-open-source-september-challenge)  
 `[09/08 19:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Rakesh9100/scaler-open-source-september-challenge](https://github.com/Rakesh9100/scaler-open-source-september-challenge)  
 `[09/04 17:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/pandas-2.1.0` from [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[09/04 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[09/04 17:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#165`](https://github.com//Rakesh9100/ML-Project-Drug-Review-Dataset/pull/165 'Bump pandas from 2.0.3 to 2.1.0') in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
-`[09/04 17:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/catboost-1.2.1` from [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 `[09/04 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)  
 
 </details>
