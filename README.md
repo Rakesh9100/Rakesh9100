@@ -104,11 +104,11 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-`[11/19 07:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Rakesh9100/Scaler-30-Days-of-JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript)  
-`[11/17 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Rakesh9100/Rakesh9100](https://github.com/Rakesh9100/Rakesh9100)  
-`[11/17 18:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Rakesh9100/Greeting-Time/issues/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
-`[11/17 18:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Rakesh9100/Greeting-Time/issues/4 'Updated readme file') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
-`[11/17 18:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//Rakesh9100/Greeting-Time/issues/3 'Updating Readme file for Quotes') in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)  
+1. 🗣 Commented on [#4](https://github.com/Rakesh9100/Greeting-Time/pull/4#issuecomment-1816894034) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+2. 🗣 Commented on [#4](https://github.com/Rakesh9100/Greeting-Time/pull/4#issuecomment-1816893793) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+3. 🔒 Closed issue [#3](https://github.com/Rakesh9100/Greeting-Time/issues/3) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+4. 🎉 Merged PR [#4](https://github.com/Rakesh9100/Greeting-Time/pull/4) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+5. 🗣 Commented on [#155](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/155#issuecomment-1816793254) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
