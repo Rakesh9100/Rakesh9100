@@ -4,27 +4,24 @@
 
 [![My Hacktoberfest Holopin Badges](https://holopin.me/rakesh9100)](https://holopin.io/@rakesh9100)
 
-<p align = "center">
-<img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
+<p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
 
-<p align = "center">
-<img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
-</p>
+<p align = "center"><img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"></p>
 
 <p align = "center">
 <a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.shields.io/badge/RAKESH%20ROSHAN-blue?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=blue" height="25"></a>
 <a href = "mailto:roshanrakesh7362@gmail.com"><img src = "https://img.shields.io/badge/SAY%2C%20HI-D14836?style=for-the-badge&logo=gmail&labelColor=white&logoColor=D14836" height="25"></a></p>
 
-<p align = "center">
-<img src = "https://komarev.com/ghpvc/?username=Rakesh9100&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"/>
-</p>
+<p align = "center"><img src = "https://komarev.com/ghpvc/?username=Rakesh9100&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"/></p>
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
 ## <picture> <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 50px>  </picture> About Me
 <picture> <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></picture>
-- 🏫 I am a 3<sup>rd</sup> year CSE Student at [`Lovely Professional University`](https://www.lpu.in).
-- 🧑‍💻 Love Coding in C and C++ mostly.
+- 🏫 I am a 4<sup>th</sup> year CSE Student at [`Lovely Professional University`](https://www.lpu.in).
+- 🧑‍💻 Love Coding in C++ and Java mostly.
+- 🙂 4 PRs merged as a Contributor in [`Hacktoberfest'23`](https://hacktoberfest.com/).
+- 🙂 Poject Admin, Mentor, and Community Expert at [`GSSoC'23`](https://gssoc.girlscript.tech/).
 - 🙂 Open Source Contributor at [`GSSoC'22`](https://gssoc.girlscript.tech/).
 - ⭐ Secured 46<sup>th</sup> Rank Globally & Received `Letter of Recommendation` in [`GSSoC'22`](https://gssoc.girlscript.tech/).
 - ⭐ 3<sup>rd</sup> Milestone in [`GoogleCloudReady Facilitator Program'22`](https://events.withgoogle.com/googlecloudready-facilitator-program/).
@@ -35,29 +32,29 @@
 - 🤓 Always in a try to `learn new things`.
 
 <table align = "center">
-  <tr>
-    <td align = "center"> 🌟 Web Development & Designing Intern at <a href = "https://oasisinfobyte.com/"><br>Oasis Infobyte</a> <br>in October'22 </td>
-    <td align = "center"> 🌟 Web Development Intern at <a href = "https://internship.thesparksfoundation.info/"><br>The Sparks Foundation</a> <br>in October'22, <b>Received LOR</b> </td>
-    <td align = "center"> 💻 Campus Ambassador Intern at <a href = "https://internbug.wixsite.com/internbug"><br>InternBug</a> <br>in October'22 </td>
-    <td align = "center"> 🌟 Web Development Intern at <a href = "https://codeclause.com/"><br>CodeClause</a> <br>in December'22, <b>Received LOR</b> </td>
-    <td align = "center"> 🌟 Web Developer Intern at <a href = "https://letsgrowmore.in/"><br>LetsGrowMore</a> <br>in December'22, <b>Received LOR</b> </td>
-  </tr>
+<tr>
+<td align = "center"> 🌟 Software Engineering Intern at <a href = "https://www.opentext.com/"><br>OpenText</a> <br>(October'23 - Present) </td>
+<td align = "center"> 🌟 Web Development Intern at <a href = "https://internship.thesparksfoundation.info/"><br>The Sparks Foundation</a> <br>in October'22, <b>Received LOR</b> </td>
+<td align = "center"> 💻 Campus Ambassador Intern at <a href = "https://internbug.wixsite.com/internbug"><br>InternBug</a> <br>in October'22 </td>
+<td align = "center"> 🌟 Web Development Intern at <a href = "https://codeclause.com/"><br>CodeClause</a> <br>in December'22, <b>Received LOR</b> </td>
+<td align = "center"> 🌟 Web Developer Intern at <a href = "https://letsgrowmore.in/"><br>LetsGrowMore</a> <br>in December'22, <b>Received LOR</b> </td>
+</tr>
 </table>
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
 ## 🚀 Preferred Programming Languages and Tools:
 <p align = "left">
-	<code><a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
-    	<code><a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a></code>
-    	<code><a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"/> </a></code>
-    	<code><a href = "https://web.dev/learn/css/"> <img src = "https://img.icons8.com/color/50/000000/css3.png"/> </a></code>
-    	<code><a href = "https://www.javascript.com/"> <img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a></code>
-	<code><a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
-	<code><a href = "https://docs.oracle.com/javase/tutorial/"> <img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
-    	<code><a href = "https://code.visualstudio.com/"> <img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
-	<code><a href = "https://git-scm.com/"> <img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
-	<code><a href = "https://cloud.google.com/"> <img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code>
+<code><a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
+<code><a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a></code>
+<code><a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"/> </a></code>
+<code><a href = "https://web.dev/learn/css/"> <img src = "https://img.icons8.com/color/50/000000/css3.png"/> </a></code>
+<code><a href = "https://www.javascript.com/"> <img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a></code>
+<code><a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
+<code><a href = "https://docs.oracle.com/javase/tutorial/"> <img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
+<code><a href = "https://code.visualstudio.com/"> <img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
+<code><a href = "https://git-scm.com/"> <img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
+<code><a href = "https://cloud.google.com/"> <img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code>
 </p><br>
 
 ## 👨🏻‍💻 Coding Profiles
@@ -92,9 +89,9 @@
 ## <picture> <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>  </picture> My Github Stats
 
 <details><summary><h3>🔥 Streak Stats</h3></summary>
-<p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=rakesh9100&theme=midnight-purple" alt = "Rakesh9100"/></p>
+<p align = "center"><img src = "https://github-readme-streak-stats-smoky-gamma.vercel.app?user=rakesh9100&theme=midnight-purple&border_radius=10" alt = "Rakesh's Streak Stats"/></p>
 </details>
-  
+
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align = "center">
 <a href = "https://github.com/rakesh9100">
