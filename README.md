@@ -2,7 +2,7 @@
 
 <p align = "center"><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283915008-3c9ae070-eb90-4323-bc0d-ab964c8a0ff6.png" alt = "Blue and White Abstract Banner"></p>
 
-[![My Hacktoberfest Holopin Badges](https://holopin.me/rakesh9100)](https://holopin.io/@rakesh9100)
+<p align = "center"><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/284351332-73d9e62a-92e8-4c4e-af88-28703f608846.png" alt = "Hacktoberfest Holopin Badges"></p>
 
 <p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
 
@@ -33,7 +33,7 @@
 
 <table align = "center">
 <tr>
-<td align = "center"> 🌟 Software Engineering Intern at <a href = "https://www.opentext.com/"><br>OpenText</a> <br>(October'23 - Present) </td>
+<td align = "center"> ✨ Software Engineering Intern at <a href = "https://www.opentext.com/"><br>OpenText</a> <br>(October'23 - Present) </td>
 <td align = "center"> 🌟 Web Development Intern at <a href = "https://internship.thesparksfoundation.info/"><br>The Sparks Foundation</a> <br>in October'22, <b>Received LOR</b> </td>
 <td align = "center"> 💻 Campus Ambassador Intern at <a href = "https://internbug.wixsite.com/internbug"><br>InternBug</a> <br>in October'22 </td>
 <td align = "center"> 🌟 Web Development Intern at <a href = "https://codeclause.com/"><br>CodeClause</a> <br>in December'22, <b>Received LOR</b> </td>
@@ -68,11 +68,14 @@
 ## 👨‍💻 Open Source Contributions
 | S.No. | Open Source Programs | Duration | Role | Rewards |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1. | GirlScript Summer of Code | 1st Mar - 31st May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
-| 2. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Contributor | [Certificate](https://drive.google.com/file/d/167zbwHjw_m7LPksIG2JNu4XO4WHEugSe/view?usp=share_link) |
-| 3. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Project Admin | [Certificate](https://drive.google.com/file/d/1L3K9xfyJ1rj0kSA-Vc0P6hlodb6FWAKO/view?usp=share_link) |
-| 4. | Hacktoberfest | 1st October - 31st October 2022 | Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
-| 5. | Hacktoberfest | 1st October - 31st October 2022 | Project Admin | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
+| 1. | Hacktoberfest | 1st October - 31st October 2023 | Contributor | [Tree Planting Certificate<br> Digital Reward Kit](https://www.linkedin.com/posts/rakesh-roshan-9100_network-hacktoberfest-hacktoberfest2023-activity-7123611537969152000-vQL7?utm_source=share&utm_medium=member_desktop) |
+| 2. | GirlScript Summer Of Code | 20th May - 10th August 2023 | Project Admin<br>Project Mentor<br>Community Expert | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-gssoc-2k23-activity-7110927389613785088-vKyx?utm_source=share&utm_medium=member_desktop) |
+| 3. | QuestDB Open Source | 1st June - 30th June 2023 | Contributor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-questdb-opensource-activity-7107755325495087104-Qk_a?utm_source=share&utm_medium=member_desktop) |
+| 4. | JGEC Winter Of Code | 15th February - 16th March 2023 | Project Mentor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_jgecwinterofcode-2k23-opensource-activity-7106880360252157955-7B-E?utm_source=share&utm_medium=member_desktop) |
+| 5. | Hacktoberfest | 1st October - 31st October 2022 | Project Admin<br>Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
+| 6. | Scaler 30 Days Open Source | 1st September - 30th September 2022 | Challenger | [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_scaler-opensource-challenge-activity-7102342887673098240-iuyP?utm_source=share&utm_medium=member_desktop) |
+| 7. | Hack Club RAIT Summer Of Code| 15th July - 30th August 2022 | Contributor<br>Project Maintainer | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hackclubrait2k22-opensource-activity-7101590677494390784-jSpj?utm_source=share&utm_medium=member_desktop) |
+| 8. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
 <br>
 
 ## 🔗 Connect with me:
@@ -88,9 +91,8 @@
 
 ## <picture> <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>  </picture> My Github Stats
 
-<details><summary><h3>🔥 Streak Stats</h3></summary>
+<h3>🔥 Streak Stats</h3>
 <p align = "center"><img src = "https://github-readme-streak-stats-smoky-gamma.vercel.app?user=rakesh9100&theme=midnight-purple&border_radius=10" alt = "Rakesh's Streak Stats"/></p>
-</details>
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align = "center">
@@ -333,24 +335,13 @@
 <!--END_SECTION:activity-->
 
 <details><summary><h3>🏆 GitHub Profile Trophies</h3></summary>
-<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=4&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
+<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=5&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
 </details>
 
-<details><summary><h3>⚡ GitHub Activity Graph</h3></summary>
+<h3>⚡ GitHub Activity Graph</h3>
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
-</details>
-
-<h3>💫 GitHub Profile 3D</h3>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
-
-## 🐍 A Snake Eating my Contribution Graph
-
-<p align = "center">
-<img src = "https://github.com/Rakesh9100/Rakesh9100/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p><br>
 
 <div align="center">
 
