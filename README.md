@@ -106,11 +106,11 @@
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Rakesh9100/Greeting-Time/pull/4#issuecomment-1816894034) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
-2. 🗣 Commented on [#4](https://github.com/Rakesh9100/Greeting-Time/pull/4#issuecomment-1816893793) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
-3. 🔒 Closed issue [#3](https://github.com/Rakesh9100/Greeting-Time/issues/3) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
-4. 🎉 Merged PR [#4](https://github.com/Rakesh9100/Greeting-Time/pull/4) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
-5. 🗣 Commented on [#155](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/155#issuecomment-1816793254) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+1. 🗣 Commented on [#8](https://github.com/Rakesh9100/Greeting-Time/issues/8#issuecomment-1819642377) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+2. 🗣 Commented on [#7](https://github.com/Rakesh9100/Greeting-Time/issues/7#issuecomment-1819637327) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+3. 🗣 Commented on [#6](https://github.com/Rakesh9100/Greeting-Time/issues/6#issuecomment-1819636548) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+4. ❌ Closed PR [#5](https://github.com/Rakesh9100/Greeting-Time/pull/5) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+5. 🗣 Commented on [#5](https://github.com/Rakesh9100/Greeting-Time/pull/5#issuecomment-1819633350) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
