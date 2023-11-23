@@ -43,7 +43,7 @@
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36>&nbsp;&nbsp; Preferred Programming Languages and Tools
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Preferred Programming Languages and Tools
 <p align = "left">
 <code><a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
 <code><a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a></code>
@@ -57,7 +57,7 @@
 <code><a href = "https://cloud.google.com/"> <img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code>
 </p><br>
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37>&nbsp;&nbsp; Coding Profiles
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37px>&nbsp;&nbsp; Coding Profiles
 <p align = "left">
 <a href = "https://www.hackerrank.com/roshanrakesh7362?hr_r=1"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
 <a href = "https://leetcode.com/Rakesh9100/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
@@ -65,7 +65,7 @@
 <a href = "https://www.cloudskillsboost.google/public_profiles/29e851f3-5a90-4e77-87ae-8b1d1a2c10b3"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"/></a>
 </p><br>
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41>&nbsp;&nbsp; Open Source Contributions
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Open Source Contributions
 | S.No. | Open Source Programs | Duration | Role | Rewards |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1. | Hacktoberfest | 1st October - 31st October 2023 | Contributor | [Tree Planting Certificate<br> Digital Reward Kit](https://www.linkedin.com/posts/rakesh-roshan-9100_network-hacktoberfest-hacktoberfest2023-activity-7123611537969152000-vQL7?utm_source=share&utm_medium=member_desktop) |
@@ -78,7 +78,20 @@
 | 8. | GirlScript Summer Of Code | 1st Mar - 31st May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
 <br>
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = 37>&nbsp;&nbsp; Connect With Me
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285184229-d07723bc-c082-40cc-b8a6-391a63f06c9e.gif" width = 41px>&nbsp;&nbsp; Google Cloud and Qwiklabs Pograms
+| S.No. | Google Cloud and Qwiklabs Pograms | Duration | Rewards | Post Link |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1. | Arcade Pogram | January - June 2023 | Google Cloud Cirrus Laptop Sleeve, Clever Pen, Lunch Cooler, Delegate Organizer, Blue Mug, Multi-Tool Car, Hello World T-shirt, and Google Cloud Backpack | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_arcade2k23-swag-google-activity-7119555191221235712-t4Ir?utm_source=share&utm_medium=member_desktop) |
+| 2. | Google Cloud Career Practitioners Pathway Program | December 2022 - January 2023 | Certificate<br> Google Cloud T-Shirt, Portronics Mouse, and Google Cloud Mobile Holder Stand | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_network-gccp2k22-googlecloud-activity-7105084689819824128-EtrG?utm_source=share&utm_medium=member_desktop) |
+| 3. | Arcade Pogram | July - December 2022 | Google Cloud T-shirt, Pen, Zipper Organizers, Cap, Black Premium Teapot, and Delegate Organizer | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_arcade2k22-swag-learning-activity-7104153551832035328-zbCU?utm_source=share&utm_medium=member_desktop) |
+| 4. | Learn to Earn Cloud Data Challenge | June - July 2022 | Google Cloud Sipper, Badges and Stickers | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_network-google-swag-activity-7101434781422268416-2it1?utm_source=share&utm_medium=member_desktop) |
+| 5. | Google Cloud Ready Facilitator Program | March - June 2022 | Google Cloud Bags, T-shirts, Travel Mugs, Pens, Stickers and Badges | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_googlecloudready-cloud-swag-activity-7101509993102741504-hXWk?utm_source=share&utm_medium=member_desktop) |
+| 6. | Learn to Earn Cloud Security Challenge | January 2022 | Google Cloud Hoodie, Badge and Stickers | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-google-swag-activity-7101216557665533952-jeui?utm_source=share&utm_medium=member_desktop) |
+<br>
+
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = 37px>&nbsp;&nbsp; Connect With Me
 <p align = "left">
 <a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rakesh250602/"><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
