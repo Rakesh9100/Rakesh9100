@@ -122,11 +122,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Rakesh9100/Greeting-Time/issues/10#issuecomment-1825852691) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
-2. 🗣 Commented on [#9](https://github.com/Rakesh9100/Greeting-Time/pull/9#issuecomment-1823866422) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
-3. 🗣 Commented on [#9](https://github.com/Rakesh9100/Greeting-Time/pull/9#issuecomment-1823866318) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
-4. 🗣 Commented on [#9](https://github.com/Rakesh9100/Greeting-Time/pull/9#issuecomment-1823866124) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
-5. 🔒 Closed issue [#6](https://github.com/Rakesh9100/Greeting-Time/issues/6) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+1. 🗣 Commented on [#11](https://github.com/Rakesh9100/Greeting-Time/pull/11#issuecomment-1826399372) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+2. 🗣 Commented on [#11](https://github.com/Rakesh9100/Greeting-Time/pull/11#issuecomment-1826398271) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+3. 🗣 Commented on [#10](https://github.com/Rakesh9100/Greeting-Time/issues/10#issuecomment-1825852691) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+4. 🗣 Commented on [#9](https://github.com/Rakesh9100/Greeting-Time/pull/9#issuecomment-1823866422) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
+5. 🗣 Commented on [#9](https://github.com/Rakesh9100/Greeting-Time/pull/9#issuecomment-1823866318) in [Rakesh9100/Greeting-Time](https://github.com/Rakesh9100/Greeting-Time)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
