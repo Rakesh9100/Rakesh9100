@@ -122,11 +122,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/opencodeiiita/CalcDiverse/issues/2) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
-2. 🎉 Merged PR [#11](https://github.com/opencodeiiita/CalcDiverse/pull/11) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
-3. 🗣 Commented on [#11](https://github.com/opencodeiiita/CalcDiverse/pull/11#issuecomment-1872573591) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
-4. 🗣 Commented on [#11](https://github.com/opencodeiiita/CalcDiverse/pull/11#issuecomment-1872518782) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
-5. 🗣 Commented on [#32](https://github.com/opencodeiiita/CalcDiverse/pull/32#issuecomment-1872506243) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
+1. 🔒 Closed issue [#3](https://github.com/opencodeiiita/CalcDiverse/issues/3) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
+2. 🎉 Merged PR [#12](https://github.com/opencodeiiita/CalcDiverse/pull/12) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
+3. 🗣 Commented on [#12](https://github.com/opencodeiiita/CalcDiverse/pull/12#issuecomment-1872575378) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
+4. ❌ Closed PR [#7](https://github.com/opencodeiiita/CalcDiverse/pull/7) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
+5. 🔒 Closed issue [#2](https://github.com/opencodeiiita/CalcDiverse/issues/2) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
