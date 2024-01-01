@@ -122,11 +122,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/158#issuecomment-1873350112) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🗣 Commented on [#157](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/157#issuecomment-1873349915) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🎉 Merged PR [#195](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/195) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
-4. ❌ Closed PR [#5](https://github.com/Rakesh9100/Beautiify/pull/5) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-5. ❌ Reopened PR [#8](https://github.com/Rakesh9100/Beautiify/pull/8) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🗣 Commented on [#161](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/161#issuecomment-1873351501) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+2. 🗣 Commented on [#160](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/160#issuecomment-1873351146) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+3. 🗣 Commented on [#159](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/159#issuecomment-1873350898) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+4. 🗣 Commented on [#158](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/158#issuecomment-1873350112) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🗣 Commented on [#157](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/157#issuecomment-1873349915) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
