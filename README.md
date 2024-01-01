@@ -122,11 +122,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Rakesh9100/Beautiify/pull/5) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. ❌ Reopened PR [#8](https://github.com/Rakesh9100/Beautiify/pull/8) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. ❌ Closed PR [#8](https://github.com/Rakesh9100/Beautiify/pull/8) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-4. 🗣 Commented on [#8](https://github.com/Rakesh9100/Beautiify/pull/8#issuecomment-1872584305) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-5. 🔒 Closed issue [#3](https://github.com/opencodeiiita/CalcDiverse/issues/3) in [opencodeiiita/CalcDiverse](https://github.com/opencodeiiita/CalcDiverse)
+1. 🎉 Merged PR [#195](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/195) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
+2. ❌ Closed PR [#5](https://github.com/Rakesh9100/Beautiify/pull/5) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. ❌ Reopened PR [#8](https://github.com/Rakesh9100/Beautiify/pull/8) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. ❌ Closed PR [#8](https://github.com/Rakesh9100/Beautiify/pull/8) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🗣 Commented on [#8](https://github.com/Rakesh9100/Beautiify/pull/8#issuecomment-1872584305) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
