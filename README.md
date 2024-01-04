@@ -122,11 +122,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/Rakesh9100/CalcDiverse/issues/33) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🎉 Merged PR [#74](https://github.com/Rakesh9100/CalcDiverse/pull/74) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#74](https://github.com/Rakesh9100/CalcDiverse/pull/74#issuecomment-1877218338) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🗣 Commented on [#46](https://github.com/Rakesh9100/Beautiify/pull/46#issuecomment-1877213045) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-5. 🗣 Commented on [#74](https://github.com/Rakesh9100/CalcDiverse/pull/74#issuecomment-1876047125) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#28](https://github.com/Rakesh9100/CalcDiverse/issues/28#issuecomment-1877244863) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. 🗣 Commented on [#69](https://github.com/Rakesh9100/CalcDiverse/issues/69#issuecomment-1877243397) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🗣 Commented on [#86](https://github.com/Rakesh9100/CalcDiverse/pull/86#issuecomment-1877238318) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#84](https://github.com/Rakesh9100/CalcDiverse/pull/84#issuecomment-1877237989) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+5. 🗣 Commented on [#83](https://github.com/Rakesh9100/CalcDiverse/pull/83#issuecomment-1877237145) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
