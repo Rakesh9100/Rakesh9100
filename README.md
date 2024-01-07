@@ -122,11 +122,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#169](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/169) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🎉 Merged PR [#186](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/186) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🗣 Commented on [#186](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/186#issuecomment-1879960738) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-4. 🗣 Commented on [#186](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/186#issuecomment-1879844740) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-5. 🗣 Commented on [#169](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/169#issuecomment-1879843051) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+1. 🔒 Closed issue [#18](https://github.com/Rakesh9100/CalcDiverse/issues/18) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. ❌ Closed PR [#120](https://github.com/Rakesh9100/CalcDiverse/pull/120) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🗣 Commented on [#120](https://github.com/Rakesh9100/CalcDiverse/pull/120#issuecomment-1879965518) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#131](https://github.com/Rakesh9100/CalcDiverse/pull/131#issuecomment-1879965401) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+5. 🗣 Commented on [#66](https://github.com/Rakesh9100/Beautiify/issues/66#issuecomment-1879965210) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
