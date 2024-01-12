@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/Rakesh9100/CalcDiverse/issues/222#issuecomment-1889686752) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🗣 Commented on [#193](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/193#issuecomment-1889681760) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🔒 Closed issue [#193](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/193) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-4. 🗣 Commented on [#224](https://github.com/Rakesh9100/CalcDiverse/issues/224#issuecomment-1889680642) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🗣 Commented on [#36](https://github.com/Rakesh9100/CalcDiverse/issues/36#issuecomment-1889680005) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#182](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/182#issuecomment-1889712762) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+2. 🔒 Closed issue [#109](https://github.com/Rakesh9100/CalcDiverse/issues/109) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🗣 Commented on [#196](https://github.com/Rakesh9100/CalcDiverse/pull/196#issuecomment-1889710867) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#194](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/194#issuecomment-1889704087) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🗣 Commented on [#156](https://github.com/Rakesh9100/Beautiify/issues/156#issuecomment-1889701739) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
