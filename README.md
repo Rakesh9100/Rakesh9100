@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/182#issuecomment-1889712762) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🔒 Closed issue [#109](https://github.com/Rakesh9100/CalcDiverse/issues/109) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#196](https://github.com/Rakesh9100/CalcDiverse/pull/196#issuecomment-1889710867) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🗣 Commented on [#194](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/194#issuecomment-1889704087) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-5. 🗣 Commented on [#156](https://github.com/Rakesh9100/Beautiify/issues/156#issuecomment-1889701739) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🔒 Closed issue [#182](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/182) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+2. 🎉 Merged PR [#194](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/194) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+3. 🗣 Commented on [#194](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/194#issuecomment-1889741699) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+4. 🗣 Commented on [#172](https://github.com/Rakesh9100/CalcDiverse/issues/172#issuecomment-1889737453) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+5. 🗣 Commented on [#182](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/182#issuecomment-1889712762) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
