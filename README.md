@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/Rakesh9100/CalcDiverse/issues/172#issuecomment-1889755749) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🔒 Closed issue [#222](https://github.com/Rakesh9100/CalcDiverse/issues/222) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🔒 Closed issue [#182](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/182) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-4. 🎉 Merged PR [#194](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/194) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-5. 🗣 Commented on [#194](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/194#issuecomment-1889741699) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+1. 🗣 Commented on [#190](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/190#issuecomment-1889786739) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+2. 🗣 Commented on [#225](https://github.com/Rakesh9100/CalcDiverse/issues/225#issuecomment-1889778344) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🔒 Closed issue [#225](https://github.com/Rakesh9100/CalcDiverse/issues/225) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#190](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/190#issuecomment-1889774065) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🔒 Closed issue [#119](https://github.com/Rakesh9100/Beautiify/issues/119) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
