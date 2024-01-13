@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/Rakesh9100/CalcDiverse/issues/240#issuecomment-1890632629) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🗣 Commented on [#241](https://github.com/Rakesh9100/CalcDiverse/issues/241#issuecomment-1890631816) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#240](https://github.com/Rakesh9100/CalcDiverse/issues/240#issuecomment-1890627189) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🗣 Commented on [#240](https://github.com/Rakesh9100/CalcDiverse/issues/240#issuecomment-1890622884) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🔒 Closed issue [#240](https://github.com/Rakesh9100/CalcDiverse/issues/240) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#191](https://github.com/Rakesh9100/Beautiify/issues/191#issuecomment-1890746617) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🗣 Commented on [#197](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/197#issuecomment-1890746205) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+3. ❌ Closed PR [#197](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/197) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+4. 🗣 Commented on [#196](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/196#issuecomment-1890746014) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🗣 Commented on [#242](https://github.com/Rakesh9100/CalcDiverse/issues/242#issuecomment-1890745619) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
