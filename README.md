@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#190](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/190) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🎉 Merged PR [#199](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/199) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🗣 Commented on [#199](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/199#issuecomment-1890944321) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-4. 🗣 Commented on [#199](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/199#issuecomment-1890943888) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-5. 🗣 Commented on [#254](https://github.com/Rakesh9100/CalcDiverse/issues/254#issuecomment-1890943617) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🔒 Closed issue [#245](https://github.com/Rakesh9100/CalcDiverse/issues/245) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. 🗣 Commented on [#255](https://github.com/Rakesh9100/CalcDiverse/issues/255#issuecomment-1890949250) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🗣 Commented on [#199](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/199#issuecomment-1890949032) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+4. 🗣 Commented on [#199](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/199#issuecomment-1890948968) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🗣 Commented on [#205](https://github.com/Rakesh9100/Beautiify/pull/205#issuecomment-1890948429) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
