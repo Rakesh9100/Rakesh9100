@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/202#issuecomment-1891042683) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🗣 Commented on [#209](https://github.com/Rakesh9100/Beautiify/issues/209#issuecomment-1891039954) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. 🔒 Closed issue [#203](https://github.com/Rakesh9100/Beautiify/issues/203) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-4. 🎉 Merged PR [#208](https://github.com/Rakesh9100/Beautiify/pull/208) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-5. 🗣 Commented on [#208](https://github.com/Rakesh9100/Beautiify/pull/208#issuecomment-1891039480) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🗣 Commented on [#206](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/206#issuecomment-1891342960) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+2. 🗣 Commented on [#205](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/205#issuecomment-1891342522) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+3. 🗣 Commented on [#202](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/202#issuecomment-1891341303) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+4. 🗣 Commented on [#202](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/202#issuecomment-1891042683) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🗣 Commented on [#209](https://github.com/Rakesh9100/Beautiify/issues/209#issuecomment-1891039954) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
