@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#381](https://github.com/Rakesh9100/Beautiify/issues/381) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🗣 Commented on [#381](https://github.com/Rakesh9100/Beautiify/issues/381#issuecomment-1905475498) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. 🗣 Commented on [#435](https://github.com/Rakesh9100/CalcDiverse/issues/435#issuecomment-1905474040) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🗣 Commented on [#435](https://github.com/Rakesh9100/CalcDiverse/issues/435#issuecomment-1905473268) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🗣 Commented on [#423](https://github.com/Rakesh9100/CalcDiverse/pull/423#issuecomment-1905471099) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#387](https://github.com/Rakesh9100/Beautiify/pull/387#issuecomment-1905634220) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🔒 Closed issue [#381](https://github.com/Rakesh9100/Beautiify/issues/381) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🗣 Commented on [#381](https://github.com/Rakesh9100/Beautiify/issues/381#issuecomment-1905475498) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🗣 Commented on [#435](https://github.com/Rakesh9100/CalcDiverse/issues/435#issuecomment-1905474040) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+5. 🗣 Commented on [#435](https://github.com/Rakesh9100/CalcDiverse/issues/435#issuecomment-1905473268) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
