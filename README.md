@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/225#issuecomment-1906129084) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🔒 Closed issue [#219](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/219) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🎉 Merged PR [#221](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/221) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-4. 🗣 Commented on [#221](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/221#issuecomment-1906125072) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-5. 🔒 Closed issue [#210](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/210) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+1. 🗣 Commented on [#382](https://github.com/Rakesh9100/Beautiify/pull/382#issuecomment-1906288221) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🔒 Closed issue [#303](https://github.com/Rakesh9100/Beautiify/issues/303) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🎉 Merged PR [#372](https://github.com/Rakesh9100/Beautiify/pull/372) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🗣 Commented on [#372](https://github.com/Rakesh9100/Beautiify/pull/372#issuecomment-1906279564) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🗣 Commented on [#225](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/225#issuecomment-1906129084) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
