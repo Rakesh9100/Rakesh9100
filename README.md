@@ -123,11 +123,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/225#issuecomment-1913143385) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🗣 Commented on [#195](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/195#issuecomment-1913142856) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🔒 Closed issue [#234](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/234) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-4. 🗣 Commented on [#234](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/234#issuecomment-1913142591) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-5. 🗣 Commented on [#226](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/226#issuecomment-1913142510) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+1. 🔒 Closed issue [#433](https://github.com/Rakesh9100/Beautiify/issues/433) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🎉 Merged PR [#443](https://github.com/Rakesh9100/Beautiify/pull/443) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🗣 Commented on [#443](https://github.com/Rakesh9100/Beautiify/pull/443#issuecomment-1913147150) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🗣 Commented on [#225](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/225#issuecomment-1913143385) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🗣 Commented on [#195](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/195#issuecomment-1913142856) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
