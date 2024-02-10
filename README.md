@@ -73,10 +73,18 @@
 | 3. | GirlScript Summer Of Code | 20<sup>th</sup> May - 10<sup>th</sup> August 2023 | Project Admin<br>Project Mentor<br>Community Expert | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-gssoc-2k23-activity-7110927389613785088-vKyx?utm_source=share&utm_medium=member_desktop) |
 | 4. | QuestDB Open Source | 1<sup>st</sup> June - 30<sup>th</sup> June 2023 | Contributor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-questdb-opensource-activity-7107755325495087104-Qk_a?utm_source=share&utm_medium=member_desktop) |
 | 5. | JGEC Winter Of Code | 15<sup>th</sup> February - 16<sup>th</sup> March 2023 | Project Mentor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_jgecwinterofcode-2k23-opensource-activity-7106880360252157955-7B-E?utm_source=share&utm_medium=member_desktop) |
-| 6. | Hacktoberfest | 1<sup>st</sup> October - 31<sup>st</sup> October 2022 | Project Admin<br>Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
-| 7. | Scaler 30 Days Open Source | 1<sup>st</sup> September - 30<sup>th</sup> September 2022 | Challenger | [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_scaler-opensource-challenge-activity-7102342887673098240-iuyP?utm_source=share&utm_medium=member_desktop) |
-| 8. | Hack Club RAIT Summer Of Code| 15<sup>th</sup> July - 30<sup>th</sup> August 2022 | Contributor<br>Project Maintainer | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hackclubrait2k22-opensource-activity-7101590677494390784-jSpj?utm_source=share&utm_medium=member_desktop) |
-| 9. | GirlScript Summer Of Code | 1<sup>st</sup> Mar - 31<sup>st</sup> May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
+
+<details>
+  <summary><b><h4>&nbsp;&nbsp;Show More Contributions</h4></b><br></summary><br>
+  
+  | S.No. | Open Source Programs | Duration | Role | Rewards |
+  |:-----:|:-----:|:-----:|:-----:|:-----:|
+  | 6. | Hacktoberfest | 1<sup>st</sup> October - 31<sup>st</sup> October 2022 | Project Admin<br>Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
+  | 7. | Scaler 30 Days Open Source | 1<sup>st</sup> September - 30<sup>th</sup> September 2022 | Challenger | [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_scaler-opensource-challenge-activity-7102342887673098240-iuyP?utm_source=share&utm_medium=member_desktop) |
+  | 8. | Hack Club RAIT Summer Of Code| 15<sup>th</sup> July - 30<sup>th</sup> August 2022 | Contributor<br>Project Maintainer | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hackclubrait2k22-opensource-activity-7101590677494390784-jSpj?utm_source=share&utm_medium=member_desktop) |
+  | 9. | GirlScript Summer Of Code | 1<sup>st</sup> Mar - 31<sup>st</sup> May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
+  
+</details>
 <br>
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
@@ -123,11 +131,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#557](https://github.com/Rakesh9100/Beautiify/pull/557#issuecomment-1936975660) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🗣 Commented on [#575](https://github.com/Rakesh9100/CalcDiverse/issues/575#issuecomment-1936972679) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#573](https://github.com/Rakesh9100/CalcDiverse/issues/573#issuecomment-1936971781) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🔒 Closed issue [#573](https://github.com/Rakesh9100/CalcDiverse/issues/573) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🗣 Commented on [#553](https://github.com/Rakesh9100/Beautiify/issues/553#issuecomment-1936970239) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🗣 Commented on [#575](https://github.com/Rakesh9100/CalcDiverse/issues/575#issuecomment-1936972679) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. 🗣 Commented on [#573](https://github.com/Rakesh9100/CalcDiverse/issues/573#issuecomment-1936971781) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. 🔒 Closed issue [#573](https://github.com/Rakesh9100/CalcDiverse/issues/573) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#553](https://github.com/Rakesh9100/Beautiify/issues/553#issuecomment-1936970239) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🔒 Closed issue [#553](https://github.com/Rakesh9100/Beautiify/issues/553) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
