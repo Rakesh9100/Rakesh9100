@@ -131,11 +131,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#226](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/226#issuecomment-1937488483) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🗣 Commented on [#226](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/226#issuecomment-1937487152) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🗣 Commented on [#576](https://github.com/Rakesh9100/CalcDiverse/pull/576#issuecomment-1936992475) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🗣 Commented on [#576](https://github.com/Rakesh9100/CalcDiverse/pull/576#issuecomment-1936992328) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🗣 Commented on [#574](https://github.com/Rakesh9100/CalcDiverse/pull/574#issuecomment-1936990147) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#562](https://github.com/Rakesh9100/Beautiify/issues/562#issuecomment-1937497615) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🗣 Commented on [#561](https://github.com/Rakesh9100/Beautiify/issues/561#issuecomment-1937497260) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🗣 Commented on [#543](https://github.com/Rakesh9100/Beautiify/issues/543#issuecomment-1937496881) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🗣 Commented on [#484](https://github.com/Rakesh9100/Beautiify/issues/484#issuecomment-1937496625) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🗣 Commented on [#430](https://github.com/Rakesh9100/Beautiify/issues/430#issuecomment-1937496358) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
