@@ -131,11 +131,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/257#issuecomment-1946404839) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🔒 Closed issue [#257](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/257) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🗣 Commented on [#584](https://github.com/Rakesh9100/CalcDiverse/issues/584#issuecomment-1946401443) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🗣 Commented on [#504](https://github.com/Rakesh9100/CalcDiverse/issues/504#issuecomment-1946400509) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🗣 Commented on [#502](https://github.com/Rakesh9100/CalcDiverse/issues/502#issuecomment-1946398042) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. ❌ Closed PR [#574](https://github.com/Rakesh9100/Beautiify/pull/574) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🗣 Commented on [#388](https://github.com/Rakesh9100/Beautiify/issues/388#issuecomment-1946672887) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🗣 Commented on [#257](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/257#issuecomment-1946404839) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+4. 🔒 Closed issue [#257](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/257) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🗣 Commented on [#584](https://github.com/Rakesh9100/CalcDiverse/issues/584#issuecomment-1946401443) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
