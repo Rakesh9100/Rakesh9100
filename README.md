@@ -131,11 +131,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#261](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/261) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🎉 Merged PR [#262](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/262) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🗣 Commented on [#262](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/262#issuecomment-1963001637) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-4. 🗣 Commented on [#262](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/262#issuecomment-1962998080) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-5. 🗣 Commented on [#261](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/261#issuecomment-1962890462) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+1. 🗣 Commented on [#613](https://github.com/Rakesh9100/Beautiify/pull/613#issuecomment-1963006261) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🗣 Commented on [#612](https://github.com/Rakesh9100/Beautiify/pull/612#issuecomment-1963004569) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🔒 Closed issue [#607](https://github.com/Rakesh9100/Beautiify/issues/607) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🎉 Merged PR [#612](https://github.com/Rakesh9100/Beautiify/pull/612) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🗣 Commented on [#609](https://github.com/Rakesh9100/Beautiify/issues/609#issuecomment-1963003116) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
