@@ -131,11 +131,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#261](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/261#issuecomment-1962890462) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-2. 🗣 Commented on [#261](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/261#issuecomment-1962886829) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-3. 🗣 Commented on [#261](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/261#issuecomment-1962886736) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-4. 🔒 Closed issue [#259](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/259) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
-5. 🗣 Commented on [#259](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/259#issuecomment-1962882949) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+1. 🔒 Closed issue [#261](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/261) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+2. 🎉 Merged PR [#262](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/262) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+3. 🗣 Commented on [#262](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/262#issuecomment-1963001637) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+4. 🗣 Commented on [#262](https://github.com/Rakesh9100/Click-The-Edible-Game/pull/262#issuecomment-1962998080) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
+5. 🗣 Commented on [#261](https://github.com/Rakesh9100/Click-The-Edible-Game/issues/261#issuecomment-1962890462) in [Rakesh9100/Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
