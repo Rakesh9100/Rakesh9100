@@ -1,10 +1,10 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283921041-ee96ba74-1bed-4ea6-b9d9-a20d8aef1938.gif" height = 30px width = 30px> </h1>
 
-<p align = "center"><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283915008-3c9ae070-eb90-4323-bc0d-ab964c8a0ff6.png" alt = "Blue and White Abstract Banner"></p>
+<p align = "center"><img src = "https://github.com/Rakesh9100/Rakesh9100/assets/73993775/5cc0f70b-cba4-4b28-83d7-4ff2538ece70" alt = "Blue and White Abstract Banner"></p>
 
 <p align = "center"><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/284351332-73d9e62a-92e8-4c4e-af88-28703f608846.png" alt = "Hacktoberfest Holopin Badges"></p>
 
-<p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
+<p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Associate+Software+Engineer;Coder+and+Open+Source+Enthusiast;Frontend+Web+Developer;Always+learning+new+things"></p>
 
 <p align = "center"><img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"></p>
 
@@ -18,10 +18,11 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
-- 🏫 I am a 4<sup>th</sup> year CSE Student at [`Lovely Professional University`](https://www.lpu.in).
+- 🏢 I am an Associate Software Engineer at [`OpenText`](https://www.opentext.com/).
+- 🏫 4<sup>th</sup> year CSE Student at [`Lovely Professional University`](https://www.lpu.in).
 - 🧑‍💻 Love Coding in C++ and Java mostly.
 - 🙂 4 PRs merged as a Contributor in [`Hacktoberfest'23`](https://hacktoberfest.com/).
-- 🙂 Poject Admin, Mentor, and Community Expert at [`GSSoC'23`](https://gssoc.girlscript.tech/).
+- 🙂 Project Admin, Mentor, and Community Expert at [`GSSoC'23`](https://gssoc.girlscript.tech/).
 - 🙂 Open Source Contributor at [`GSSoC'22`](https://gssoc.girlscript.tech/).
 - ⭐ Secured 46<sup>th</sup> Rank Globally & Received `Letter of Recommendation` in [`GSSoC'22`](https://gssoc.girlscript.tech/).
 - ⭐ 3<sup>rd</sup> Milestone in [`GoogleCloudReady Facilitator Program'22`](https://events.withgoogle.com/googlecloudready-facilitator-program/).
@@ -29,13 +30,13 @@
 - ⭐ Secured 6<sup>th</sup> Rank Globally in [`HSOC'22`](https://hackclubrait.github.io/).
 - 🙂 Contributor & Project Maintainer at [`Hacktoberfest'22`](https://hacktoberfest.com/).
 - ⭐ 9 PRs merged in [`Hacktoberfest'22`](https://hacktoberfest.com/).
-- 🤓 Always in a try to `learn new things`.
+- 🤓 Always try to `learn new things`.
 
 <table align = "center">
 <tr>
-<td align = "center"> ✨ Software Engineering Intern at <a href = "https://www.opentext.com/"><br>OpenText</a> <br>(October'23 - Present) </td>
+<td align = "center"> ✨ Associate Software Engineer at <a href = "https://www.opentext.com/"><br>OpenText</a> <br>(April'24 - Present) </td>
+<td align = "center"> 💫 Software Engineering Intern at <a href = "https://www.opentext.com/"><br>OpenText</a> <br>(October'23 - March'24) </td>
 <td align = "center"> 🌟 Web Development Intern at <a href = "https://internship.thesparksfoundation.info/"><br>The Sparks Foundation</a> <br>in October'22, <b>Received LOR</b> </td>
-<td align = "center"> 💻 Campus Ambassador Intern at <a href = "https://internbug.wixsite.com/internbug"><br>InternBug</a> <br>in October'22 </td>
 <td align = "center"> 🌟 Web Development Intern at <a href = "https://codeclause.com/"><br>CodeClause</a> <br>in December'22, <b>Received LOR</b> </td>
 <td align = "center"> 🌟 Web Developer Intern at <a href = "https://letsgrowmore.in/"><br>LetsGrowMore</a> <br>in December'22, <b>Received LOR</b> </td>
 </tr>
@@ -68,33 +69,37 @@
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Open Source Contributions
 | S.No. | Open Source Programs | Duration | Role | Rewards |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1. | Semester Long Project 3.0 | 9<sup>th</sup> October - 5<sup>th</sup> December 2023 | Project Mentor | [Certificate](https://drive.google.com/file/d/1q4062CBK0lgGyKRF8wMwIFXNIYa4YGPq/view?usp=sharing) |
-| 2. | Hacktoberfest | 1<sup>st</sup> October - 31<sup>st</sup> October 2023 | Contributor | [Tree Planting Certificate<br> Digital Reward Kit](https://www.linkedin.com/posts/rakesh-roshan-9100_network-hacktoberfest-hacktoberfest2023-activity-7123611537969152000-vQL7?utm_source=share&utm_medium=member_desktop) |
-| 3. | GirlScript Summer Of Code | 20<sup>th</sup> May - 10<sup>th</sup> August 2023 | Project Admin<br>Project Mentor<br>Community Expert | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-gssoc-2k23-activity-7110927389613785088-vKyx?utm_source=share&utm_medium=member_desktop) |
-| 4. | QuestDB Open Source | 1<sup>st</sup> June - 30<sup>th</sup> June 2023 | Contributor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-questdb-opensource-activity-7107755325495087104-Qk_a?utm_source=share&utm_medium=member_desktop) |
-| 5. | JGEC Winter Of Code | 15<sup>th</sup> February - 16<sup>th</sup> March 2023 | Project Mentor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_jgecwinterofcode-2k23-opensource-activity-7106880360252157955-7B-E?utm_source=share&utm_medium=member_desktop) |
+| 1. | Innogeeks Winter Of Code | 11<sup>th</sup> January - 11<sup>th</sup> February 2024 | Project Maintainer | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_opensource-opensourcedevelopment-opensourcecontribution-activity-7175367622044082176-4VXP?utm_source=share&utm_medium=member_desktop) |
+| 2. | JGEC Winter Of Code | 15<sup>th</sup> January - 25<sup>th</sup> February 2024 | Project Mentor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_opensource-opensourcedevelopment-opensourcecontribution-activity-7175367622044082176-4VXP?utm_source=share&utm_medium=member_desktop) |
+| 3. | Social Winter Of Code | 1<sup>st</sup> January - 28<sup>th</sup> February 2024 | Project Admin | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_opensource-opensourcedevelopment-opensourcecontribution-activity-7175367622044082176-4VXP?utm_source=share&utm_medium=member_desktop) |
+| 4. | Semester Long Project 3.0 | 9<sup>th</sup> October - 5<sup>th</sup> December 2023 | Project Mentor | [Certificate](https://drive.google.com/file/d/1q4062CBK0lgGyKRF8wMwIFXNIYa4YGPq/view?usp=sharing) |
+| 5. | Hacktoberfest | 1<sup>st</sup> October - 31<sup>st</sup> October 2023 | Contributor | [Tree Planting Certificate<br> Digital Reward Kit](https://www.linkedin.com/posts/rakesh-roshan-9100_network-hacktoberfest-hacktoberfest2023-activity-7123611537969152000-vQL7?utm_source=share&utm_medium=member_desktop) |
 
 <details>
   <summary><b><h4>&nbsp;&nbsp;Show More Contributions</h4></b><br></summary><br>
   
   | S.No. | Open Source Programs | Duration | Role | Rewards |
   |:-----:|:-----:|:-----:|:-----:|:-----:|
-  | 6. | Hacktoberfest | 1<sup>st</sup> October - 31<sup>st</sup> October 2022 | Project Admin<br>Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
-  | 7. | Scaler 30 Days Open Source | 1<sup>st</sup> September - 30<sup>th</sup> September 2022 | Challenger | [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_scaler-opensource-challenge-activity-7102342887673098240-iuyP?utm_source=share&utm_medium=member_desktop) |
-  | 8. | Hack Club RAIT Summer Of Code| 15<sup>th</sup> July - 30<sup>th</sup> August 2022 | Contributor<br>Project Maintainer | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hackclubrait2k22-opensource-activity-7101590677494390784-jSpj?utm_source=share&utm_medium=member_desktop) |
-  | 9. | GirlScript Summer Of Code | 1<sup>st</sup> Mar - 31<sup>st</sup> May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
-  
+  | 6. | GirlScript Summer Of Code | 20<sup>th</sup> May - 10<sup>th</sup> August 2023 | Project Admin<br>Project Mentor<br>Community Expert | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-gssoc-2k23-activity-7110927389613785088-vKyx?utm_source=share&utm_medium=member_desktop) |
+  | 7. | QuestDB Open Source | 1<sup>st</sup> June - 30<sup>th</sup> June 2023 | Contributor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-questdb-opensource-activity-7107755325495087104-Qk_a?utm_source=share&utm_medium=member_desktop) |
+  | 8. | JGEC Winter Of Code | 15<sup>th</sup> February - 16<sup>th</sup> March 2023 | Project Mentor | [Certificate](https://www.linkedin.com/posts/rakesh-roshan-9100_jgecwinterofcode-2k23-opensource-activity-7106880360252157955-7B-E?utm_source=share&utm_medium=member_desktop) |
+  | 9. | Hacktoberfest | 1<sup>st</sup> October - 31<sup>st</sup> October 2022 | Project Admin<br>Contributor | [T-Shirt & Stickers](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hacktoberfest2022-opensource-activity-7104866772780015616-hzKJ?utm_source=share&utm_medium=member_desktop) |
+  | 10. | Scaler 30 Days Open Source | 1<sup>st</sup> September - 30<sup>th</sup> September 2022 | Challenger | [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_scaler-opensource-challenge-activity-7102342887673098240-iuyP?utm_source=share&utm_medium=member_desktop) |
+  | 11. | Hack Club RAIT Summer Of Code| 15<sup>th</sup> July - 30<sup>th</sup> August 2022 | Contributor<br>Project Maintainer | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hackclubrait2k22-opensource-activity-7101590677494390784-jSpj?utm_source=share&utm_medium=member_desktop) |
+  | 12. | GirlScript Summer Of Code | 1<sup>st</sup> Mar - 31<sup>st</sup> May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
+
 </details>
 <br>
 
 <p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285184229-d07723bc-c082-40cc-b8a6-391a63f06c9e.gif" width = 41px>&nbsp;&nbsp; Google Cloud and Qwiklabs Pograms
-| S.No. | Google Cloud and Qwiklabs Pograms | Duration | Rewards | Post Link |
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285184229-d07723bc-c082-40cc-b8a6-391a63f06c9e.gif" width = 41px>&nbsp;&nbsp; Google Cloud and Qwiklabs Programs
+| S.No. | Google Cloud and Qwiklabs Programs | Duration | Rewards | Post Link |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1. | Arcade Pogram | January - June 2023 | Google Cloud Cirrus Laptop Sleeve, Clever Pen, Lunch Cooler, Delegate Organizer, Blue Mug, Multi-Tool Car, Hello World T-shirt, and Google Cloud Backpack | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_arcade2k23-swag-google-activity-7119555191221235712-t4Ir?utm_source=share&utm_medium=member_desktop) |
+| 1. | Arcade Program | July - December 2023 | | [View]() |
+| 1. | Arcade Program | January - June 2023 | Google Cloud Cirrus Laptop Sleeve, Clever Pen, Lunch Cooler, Delegate Organizer, Blue Mug, Multi-Tool Car, Hello World T-shirt, and Google Cloud Backpack | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_arcade2k23-swag-google-activity-7119555191221235712-t4Ir?utm_source=share&utm_medium=member_desktop) |
 | 2. | Google Cloud Career Practitioners Pathway Program | December 2022 - January 2023 | Certificate<br> Google Cloud T-Shirt, Portronics Mouse, and Google Cloud Mobile Holder Stand | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_network-gccp2k22-googlecloud-activity-7105084689819824128-EtrG?utm_source=share&utm_medium=member_desktop) |
-| 3. | Arcade Pogram | July - December 2022 | Google Cloud T-shirt, Pen, Zipper Organizers, Cap, Black Premium Teapot, and Delegate Organizer | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_arcade2k22-swag-learning-activity-7104153551832035328-zbCU?utm_source=share&utm_medium=member_desktop) |
+| 3. | Arcade Program | July - December 2022 | Google Cloud T-shirt, Pen, Zipper Organizers, Cap, Black Premium Teapot, and Delegate Organizer | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_arcade2k22-swag-learning-activity-7104153551832035328-zbCU?utm_source=share&utm_medium=member_desktop) |
 | 4. | Learn to Earn Cloud Data Challenge | June - July 2022 | Google Cloud Sipper, Badges and Stickers | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_network-google-swag-activity-7101434781422268416-2it1?utm_source=share&utm_medium=member_desktop) |
 | 5. | Google Cloud Ready Facilitator Program | March - June 2022 | Google Cloud Bags, T-shirts, Travel Mugs, Pens, Stickers and Badges | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_googlecloudready-cloud-swag-activity-7101509993102741504-hXWk?utm_source=share&utm_medium=member_desktop) |
 | 6. | Learn to Earn Cloud Security Challenge | January 2022 | Google Cloud Hoodie, Badge and Stickers | [View](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-google-swag-activity-7101216557665533952-jeui?utm_source=share&utm_medium=member_desktop) |
