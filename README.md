@@ -76,7 +76,7 @@
 | 5. | Hacktoberfest | 1<sup>st</sup> October - 31<sup>st</sup> October 2023 | Contributor | [Tree Planting Certificate<br> Digital Reward Kit](https://www.linkedin.com/posts/rakesh-roshan-9100_network-hacktoberfest-hacktoberfest2023-activity-7123611537969152000-vQL7?utm_source=share&utm_medium=member_desktop) |
 
 <details>
-  <summary><b><h4>&nbsp;&nbsp;Show More Contributions</h4></b><br></summary><br>
+  <summary><b>&nbsp;&nbsp;Show More Contributions</b></summary><br>
   
   | S.No. | Open Source Programs | Duration | Role | Rewards |
   |:-----:|:-----:|:-----:|:-----:|:-----:|
