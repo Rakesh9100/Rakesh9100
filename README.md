@@ -136,11 +136,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#646](https://github.com/Rakesh9100/Beautiify/issues/646#issuecomment-2138687651) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🔒 Closed issue [#646](https://github.com/Rakesh9100/Beautiify/issues/646) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. 🗣 Commented on [#628](https://github.com/Rakesh9100/Beautiify/issues/628#issuecomment-2138683422) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-4. 🗣 Commented on [#626](https://github.com/Rakesh9100/Beautiify/issues/626#issuecomment-2138679582) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-5. 🗣 Commented on [#619](https://github.com/Rakesh9100/Beautiify/issues/619#issuecomment-2138675143) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🗣 Commented on [#656](https://github.com/Rakesh9100/Beautiify/issues/656#issuecomment-2138709679) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🗣 Commented on [#654](https://github.com/Rakesh9100/Beautiify/issues/654#issuecomment-2138709010) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🔒 Closed issue [#653](https://github.com/Rakesh9100/Beautiify/issues/653) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🗣 Commented on [#653](https://github.com/Rakesh9100/Beautiify/issues/653#issuecomment-2138706412) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🔒 Closed issue [#652](https://github.com/Rakesh9100/Beautiify/issues/652) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
