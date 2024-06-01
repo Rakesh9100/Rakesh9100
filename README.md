@@ -136,11 +136,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1006](https://github.com/Rakesh9100/CalcDiverse/issues/1006#issuecomment-2143315952) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🗣 Commented on [#1005](https://github.com/Rakesh9100/CalcDiverse/issues/1005#issuecomment-2143315249) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#1004](https://github.com/Rakesh9100/CalcDiverse/issues/1004#issuecomment-2143315102) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🗣 Commented on [#1003](https://github.com/Rakesh9100/CalcDiverse/issues/1003#issuecomment-2143314850) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🗣 Commented on [#1000](https://github.com/Rakesh9100/CalcDiverse/issues/1000#issuecomment-2143312774) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#1024](https://github.com/Rakesh9100/CalcDiverse/issues/1024#issuecomment-2143321082) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. 🎉 Merged PR [#220](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/220) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
+3. 🎉 Merged PR [#219](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/219) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
+4. 🎉 Merged PR [#218](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/218) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
+5. 🗣 Commented on [#1006](https://github.com/Rakesh9100/CalcDiverse/issues/1006#issuecomment-2143320159) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
