@@ -136,11 +136,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1112](https://github.com/Rakesh9100/Beautiify/issues/1112) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🎉 Merged PR [#1133](https://github.com/Rakesh9100/Beautiify/pull/1133) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. 🔒 Closed issue [#1092](https://github.com/Rakesh9100/Beautiify/issues/1092) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-4. 🎉 Merged PR [#1130](https://github.com/Rakesh9100/Beautiify/pull/1130) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-5. 🔒 Closed issue [#1038](https://github.com/Rakesh9100/Beautiify/issues/1038) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🔒 Closed issue [#1116](https://github.com/Rakesh9100/Beautiify/issues/1116) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🎉 Merged PR [#1141](https://github.com/Rakesh9100/Beautiify/pull/1141) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🔒 Closed issue [#1032](https://github.com/Rakesh9100/Beautiify/issues/1032) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🎉 Merged PR [#1140](https://github.com/Rakesh9100/Beautiify/pull/1140) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🔒 Closed issue [#1112](https://github.com/Rakesh9100/Beautiify/issues/1112) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
