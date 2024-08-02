@@ -136,11 +136,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1286](https://github.com/Rakesh9100/Beautiify/issues/1286#issuecomment-2266146323) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🗣 Commented on [#1318](https://github.com/Rakesh9100/Beautiify/issues/1318#issuecomment-2266145664) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. 🗣 Commented on [#1316](https://github.com/Rakesh9100/Beautiify/issues/1316#issuecomment-2266144760) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-4. 🗣 Commented on [#1315](https://github.com/Rakesh9100/Beautiify/issues/1315#issuecomment-2266144239) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-5. 🗣 Commented on [#1312](https://github.com/Rakesh9100/Beautiify/issues/1312#issuecomment-2266143465) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🎉 Merged PR [#227](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/227) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
+2. 🎉 Merged PR [#224](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/224) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
+3. 🎉 Merged PR [#226](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/226) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
+4. 🎉 Merged PR [#225](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/225) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
+5. 🎉 Merged PR [#223](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset/pull/223) in [Rakesh9100/ML-Project-Drug-Review-Dataset](https://github.com/Rakesh9100/ML-Project-Drug-Review-Dataset)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
