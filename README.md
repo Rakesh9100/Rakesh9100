@@ -136,11 +136,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1594](https://github.com/Rakesh9100/CalcDiverse/issues/1594#issuecomment-2284641357) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. 🗣 Commented on [#1594](https://github.com/Rakesh9100/CalcDiverse/issues/1594#issuecomment-2284640746) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#1594](https://github.com/Rakesh9100/CalcDiverse/issues/1594#issuecomment-2283438425) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🔒 Closed issue [#1798](https://github.com/Rakesh9100/CalcDiverse/issues/1798) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🎉 Merged PR [#1800](https://github.com/Rakesh9100/CalcDiverse/pull/1800) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#441](https://github.com/recodehive/awesome-github-profiles/issues/441#issuecomment-2298569550) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+2. ❗ Opened issue [#441](https://github.com/recodehive/awesome-github-profiles/issues/441) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+3. 🗣 Commented on [#1594](https://github.com/Rakesh9100/CalcDiverse/issues/1594#issuecomment-2284641357) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. 🗣 Commented on [#1594](https://github.com/Rakesh9100/CalcDiverse/issues/1594#issuecomment-2284640746) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+5. 🗣 Commented on [#1594](https://github.com/Rakesh9100/CalcDiverse/issues/1594#issuecomment-2283438425) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
