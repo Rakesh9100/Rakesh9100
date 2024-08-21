@@ -136,11 +136,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph") </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#441](https://github.com/recodehive/awesome-github-profiles/issues/441) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-2. 🗣 Commented on [#441](https://github.com/recodehive/awesome-github-profiles/issues/441#issuecomment-2298569550) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-3. ❗ Opened issue [#441](https://github.com/recodehive/awesome-github-profiles/issues/441) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-4. 🗣 Commented on [#1594](https://github.com/Rakesh9100/CalcDiverse/issues/1594#issuecomment-2284641357) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-5. 🗣 Commented on [#1594](https://github.com/Rakesh9100/CalcDiverse/issues/1594#issuecomment-2284640746) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. ❌ Closed PR [#1152](https://github.com/Rakesh9100/Beautiify/pull/1152) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🔒 Closed issue [#1102](https://github.com/Rakesh9100/Beautiify/issues/1102) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. ❌ Closed PR [#1109](https://github.com/Rakesh9100/Beautiify/pull/1109) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🔒 Closed issue [#441](https://github.com/recodehive/awesome-github-profiles/issues/441) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+5. 🗣 Commented on [#441](https://github.com/recodehive/awesome-github-profiles/issues/441#issuecomment-2298569550) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
