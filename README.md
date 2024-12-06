@@ -12,9 +12,9 @@
 <a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.shields.io/badge/RAKESH%20ROSHAN-blue?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=blue" height="25"></a>
 <a href = "mailto:roshanrakesh7362@gmail.com"><img src = "https://img.shields.io/badge/SAY%2C%20HI-D14836?style=for-the-badge&logo=gmail&labelColor=white&logoColor=D14836" height="25"></a></p>
 
-<p align = "center"><img src = "https://komarev.com/ghpvc/?username=Rakesh9100&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"/></p>
+<p align = "center"><img src = "https://komarev.com/ghpvc/?username=Rakesh9100&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"></p>
 
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"></p><br>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
@@ -43,30 +43,30 @@
 </tr>
 </table>
 
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"></p><br>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Preferred Programming Languages and Tools
 <p align = "left">
-<a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a>
-<a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
-<a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"/> </a>
-<a href = "https://web.dev/learn/css/"> <img src = "https://img.icons8.com/color/50/000000/css3.png"/> </a>
-<a href = "https://www.javascript.com/"> <img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a>
-<a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a>
-<a href = "https://docs.oracle.com/javase/tutorial/"> <img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a>
-<a href = "https://code.visualstudio.com/"> <img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a>
-<a href = "https://git-scm.com/"> <img src = "https://img.icons8.com/color/50/000000/git.png"/> </a>
-<a href = "https://cloud.google.com/"> <img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a>
-<a href = "https://www.docker.com/"> <img src = "https://img.icons8.com/fluency/50/docker.png"/> </a>
-<a href = "https://kubernetes.io/"> <img src = "https://img.icons8.com/color/50/kubernetes.png"/> </a>
+<a href = "https://www.cprogramming.com/"> <img src = "https://img.icons8.com/color/50/000000/c-programming.png"> </a>
+<a href = "https://www.learncpp.com/"> <img src = "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"> </a>
+<a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"> </a>
+<a href = "https://web.dev/learn/css/"> <img src = "https://img.icons8.com/color/50/000000/css3.png"> </a>
+<a href = "https://www.javascript.com/"> <img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"> </a>
+<a href = "https://www.python.org/"> <img src = "https://img.icons8.com/color/50/000000/python--v1.png"> </a>
+<a href = "https://docs.oracle.com/javase/tutorial/"> <img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"> </a>
+<a href = "https://code.visualstudio.com/"> <img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"> </a>
+<a href = "https://git-scm.com/"> <img src = "https://img.icons8.com/color/50/000000/git.png"> </a>
+<a href = "https://cloud.google.com/"> <img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"> </a>
+<a href = "https://www.docker.com/"> <img src = "https://img.icons8.com/fluency/50/docker.png"> </a>
+<a href = "https://kubernetes.io/"> <img src = "https://img.icons8.com/color/50/kubernetes.png"> </a>
 </p><br>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37px>&nbsp;&nbsp; Coding Profiles
 <p align = "left">
-<a href = "https://www.hackerrank.com/roshanrakesh7362?hr_r=1"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
-<a href = "https://leetcode.com/Rakesh9100/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
-<a href = "https://auth.geeksforgeeks.org/user/roshanrakesh7362"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
-<a href = "https://www.cloudskillsboost.google/public_profiles/29e851f3-5a90-4e77-87ae-8b1d1a2c10b3"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"/></a>
+<a href = "https://www.hackerrank.com/roshanrakesh7362?hr_r=1"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"></a>
+<a href = "https://leetcode.com/Rakesh9100/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"></a>
+<a href = "https://auth.geeksforgeeks.org/user/roshanrakesh7362"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"></a>
+<a href = "https://www.cloudskillsboost.google/public_profiles/29e851f3-5a90-4e77-87ae-8b1d1a2c10b3"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"></a>
 </p><br>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Open Source Contributions
@@ -95,7 +95,7 @@
 </details>
 <br>
 
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"></p><br>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285184229-d07723bc-c082-40cc-b8a6-391a63f06c9e.gif" width = 41px>&nbsp;&nbsp; Google Cloud and Qwiklabs Programs
 | S.No. | Google Cloud and Qwiklabs Programs | Duration | Rewards | Post Link |
@@ -111,25 +111,24 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269534972-6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55.gif" width = 37px>&nbsp;&nbsp; Connect With Me
 <p align = "left">
-<a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/rakesh250602/"><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:roshanrakesh7362@gmail.com"><img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href = "https://github.com/Rakesh9100/"><img src = "https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a href = "https://www.facebook.com/rakesh6203/"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href = "https://discordapp.com/users/944144134950748170"><img src = "https://img.icons8.com/fluency/48/000000/discord.png"/></a>
+<a href = "https://www.linkedin.com/in/rakesh-roshan-9100/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+<a href = "https://www.instagram.com/rakesh250602/"><img src = "https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+<a href = "mailto:roshanrakesh7362@gmail.com"><img src = "https://img.icons8.com/color/48/000000/gmail-new.png"></a>
+<a href = "https://github.com/Rakesh9100/"><img src = "https://img.icons8.com/color/48/000000/github--v1.png"></a>
+<a href = "https://www.facebook.com/rakesh6203/"><img src = "https://img.icons8.com/fluency/48/000000/facebook-new.png"></a>
+<a href = "https://discordapp.com/users/944144134950748170"><img src = "https://img.icons8.com/fluency/48/000000/discord.png"></a>
 
-<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"></p><br>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>&nbsp;&nbsp; My Github Stats
 
 <h3>🔥 Streak Stats</h3>
-<p align = "center"><img src = "https://streak-stats.demolab.com?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10" alt = "Rakesh's Streak Stats"/></p>
+<p align = "center"><img src = "https://streak-stats.demolab.com?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10" alt = "Rakesh's Streak Stats"></p>
 
 <h3>💻 GitHub Profile Stats</h3>
 <p align = "center">
-<a href = "https://github.com/rakesh9100">
-<img src = "https://github-readme-stats.vercel.app/api?username=rakesh9100&show_icons=true&count_private=true&theme=vision-friendly-dark&layout=compact&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=percentile" alt = "Rakesh's Github Stats" height = 200px/></a>&nbsp;
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=rakesh9100&langs_count=15&layout=compact&locale=en&theme=vision-friendly-dark" alt = "Languages Used" height = 200px/>
+<img src = "https://github-readme-stats.vercel.app/api?username=rakesh9100&show_icons=true&count_private=true&theme=vision-friendly-dark&layout=compact&show=prs_merged,prs_merged_percentage&include_all_commits=false&rank_icon=percentile" alt = "Rakesh's Github Stats" height = 200px>&nbsp;
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=rakesh9100&langs_count=15&layout=compact&locale=en&theme=vision-friendly-dark" alt = "Languages Used" height = 200px>
 <br><br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
@@ -137,11 +136,11 @@
 <h3>✨ Quira Stats</h3>
 
 <p align = "center">
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=Rakesh9100"><img src="https://stats.quira.sh/Rakesh9100/github?theme=dark" width="330" height="220" alt="Rakesh9100's GitHub | Stats"></a>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=Rakesh9100"><img src="https://stats.quira.sh/Rakesh9100/topics-over-time?theme=dark" width="330" height="240" alt="Rakesh9100's GitHub | Topics Over Time"></a>
+<img src="https://stats.quira.sh/Rakesh9100/github?theme=dark" width="330" height="220" alt="Rakesh9100's GitHub | Stats">
+<img src="https://stats.quira.sh/Rakesh9100/topics-over-time?theme=dark" width="330" height="240" alt="Rakesh9100's GitHub | Topics Over Time">
 </p>
 
-<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"></p><br>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269540879-79d3b4fa-d8fc-4348-94a1-7df5414d1ab3.gif" height = 41px>&nbsp;&nbsp; Recent GitHub Activity
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
@@ -380,13 +379,13 @@
 </p>
 
 <h3>🏆 GitHub Profile Trophies</h3>
-<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=5&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
+<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Rakesh9100&layout=compact&theme=radical&column=5&margin-w=14&margin-h=14" alt = "Trophies"> </p>
 
-<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+<p align = "center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"></p><br>
 
 <div align="center">
 
-### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = "https://rakeshroshan.netlify.app/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = "https://rakeshroshan.netlify.app/"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"> </a> &nbsp; :100:
 
 ### Show some ❤️ by starring some of my repositories !!
 </div>
