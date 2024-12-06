@@ -137,9 +137,8 @@
 <h3>✨ Quira Stats</h3>
 
 <p align = "center">
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=Rakesh9100"><img src="https://stats.quira.sh/Rakesh9100/github?theme=dark" width="320" height="220" alt="Rakesh9100's GitHub | Stats"></a>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=Rakesh9100"><img src="https://stats.quira.sh/Rakesh9100/languages-over-time?theme=dark" width="320" height="230" alt="Rakesh9100's GitHub | Languages Over Time"></a>
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=Rakesh9100"><img src="https://stats.quira.sh/Rakesh9100/topics-over-time?theme=dark" width="320" height="230" alt="Rakesh9100's GitHub | Topics Over Time"></a>
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=Rakesh9100"><img src="https://stats.quira.sh/Rakesh9100/github?theme=dark" width="330" height="220" alt="Rakesh9100's GitHub | Stats"></a>
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=Rakesh9100"><img src="https://stats.quira.sh/Rakesh9100/topics-over-time?theme=dark" width="330" height="240" alt="Rakesh9100's GitHub | Topics Over Time"></a>
 </p>
 
 <p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
