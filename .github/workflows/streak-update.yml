@@ -27,7 +27,7 @@ jobs:
           # Get today's date to append as a "last updated" message or for any custom action
           today=$(date "+%Y-%m-%d")
           # Replace the streak stats URL in README.md
-          sed -i "s|https://github-readme-streak-stats-wine-six.vercel.app?user=.*|https://github-readme-streak-stats-wine-six.vercel.app?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10&date=${today}|g" README.md
+          sed -i "s|https://github-readme-streak-stats-wine-six.vercel.app?user=[^&]*|https://github-readme-streak-stats-wine-six.vercel.app?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10&date=${today}|g" README.md
 
       # Step 4: Commit and push the changes
       - name: Commit changes
