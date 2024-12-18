@@ -13,7 +13,7 @@ jobs:
     steps:
       # Step 1: Checkout the repository
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Step 2: Set Commit Author
       - name: Set Commit Author
@@ -24,10 +24,8 @@ jobs:
       # Step 3: Update Streak Stats Image URL in README.md
       - name: Update Streak Stats Image URL
         run: |
-          # Get today's date to append as a "last updated" message or for any custom action
-          today=$(date "+%Y-%m-%d")
-          # Replace the streak stats URL in README.md
-          sed -i "s|https://github-readme-streak-stats-wine-six.vercel.app?user=[^&]*|https://github-readme-streak-stats-wine-six.vercel.app?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10&date=${today}|g" README.md
+          today=$(date "+%d-%m-%Y")
+          sed -i -E "s/(date=)[0-9-]+/\1$today/" README.md
 
       # Step 4: Commit and push the changes
       - name: Commit changes
