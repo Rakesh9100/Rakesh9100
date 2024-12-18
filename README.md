@@ -123,7 +123,7 @@
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>&nbsp;&nbsp; My Github Stats
 
 <h3>🔥 Streak Stats</h3>
-<p align = "center"><img src = "https://github-readme-streak-stats-wine-six.vercel.app?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10" alt = "Rakesh's Streak Stats"></p>
+<p align = "center"><img src = "https://github-readme-streak-stats-wine-six.vercel.app?user=Rakesh9100https://github-readme-streak-stats-wine-six.vercel.app?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10" alt = "Rakesh's Streak Stats"></p>theme=vision-friendly-darkhttps://github-readme-streak-stats-wine-six.vercel.app?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10" alt = "Rakesh's Streak Stats"></p>border_radius=10https://github-readme-streak-stats-wine-six.vercel.app?user=Rakesh9100&theme=vision-friendly-dark&border_radius=10" alt = "Rakesh's Streak Stats"></p>date=2024-12-18
 
 <h3>💻 GitHub Profile Stats</h3>
 <p align = "center">
