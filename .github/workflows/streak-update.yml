@@ -2,7 +2,7 @@ name: Maintain Streak
 
 on:
   schedule:
-    # Runs every day at midnight UTC
+    # Runs every day at midnight UTC (5:30 am IST)
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -14,25 +14,24 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 2: Update Streak Stats Image URL in README.md
-      - name: Update Streak Stats Image URL
+      # Step 2: Set commit author
+      - name: Set commit author
+        run: |
+          git config --global user.name "Rakesh9100"
+          git config --global user.email "roshanrakesh7362@gmail.com"
+
+      # Step 3: Update the streak stats URL
+      - name: Update the streak stats URL
         run: |
           today=$(date "+%d-%m-%Y")
           sed -i -E "s/(date=)[0-9-]+/\1$today/" README.md
 
-      # Step 3: Commit and push the changes
+      # Step 4: Commit and push the changes
       - name: Commit changes
         run: |
-          git config --global user.name "Rakesh9100"
-          git config --global user.email "roshanrakesh7362@gmail.com"
-          git config --global commit.gpgSign true  # Enables commit signing
           git add README.md
           git commit -m "Update README with the latest progress"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # Continue even if there are no changes to commit
+        # Make this step continue even if the commit doesn't change anything
         continue-on-error: true
