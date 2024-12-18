@@ -11,27 +11,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
+      # Step 1: Checkout the repository with signed commits enabled
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-signing: true
 
-      # Step 2: Set Commit Author
-      - name: Set Commit Author
-        run: |
-          git config --global user.name "Rakesh9100"
-          git config --global user.email "roshanrakesh7362@gmail.com"
-
-      # Step 3: Update Streak Stats Image URL in README.md
+      # Step 2: Update Streak Stats Image URL in README.md
       - name: Update Streak Stats Image URL
         run: |
           today=$(date "+%d-%m-%Y")
           sed -i -E "s/(date=)[0-9-]+/\1$today/" README.md
 
-      # Step 4: Commit and push the changes
+      # Step 3: Commit and push the changes
       - name: Commit changes
         run: |
           git add README.md
           git commit -m "Update README with the latest progress"
           git push
-        # Make this step continue even if the commit doesn't change anything
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Continue even if there are no changes to commit
         continue-on-error: true
