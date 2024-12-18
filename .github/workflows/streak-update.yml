@@ -11,12 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository with signed commits enabled
+      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-signing: true
 
       # Step 2: Update Streak Stats Image URL in README.md
       - name: Update Streak Stats Image URL
@@ -27,6 +26,9 @@ jobs:
       # Step 3: Commit and push the changes
       - name: Commit changes
         run: |
+          git config --global user.name "Rakesh9100"
+          git config --global user.email "roshanrakesh7362@gmail.com"
+          git config --global commit.gpgSign true  # Enables commit signing
           git add README.md
           git commit -m "Update README with the latest progress"
           git push
