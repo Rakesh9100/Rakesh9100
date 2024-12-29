@@ -146,11 +146,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/Rakesh9100/Eventica/pull/25#issuecomment-2564636217) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-2. 🗣 Commented on [#30](https://github.com/Rakesh9100/Eventica/issues/30#issuecomment-2564633961) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-3. 🗣 Commented on [#29](https://github.com/Rakesh9100/Eventica/issues/29#issuecomment-2564633749) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-4. 🗣 Commented on [#28](https://github.com/Rakesh9100/Eventica/issues/28#issuecomment-2564633523) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-5. 🗣 Commented on [#26](https://github.com/Rakesh9100/Eventica/issues/26#issuecomment-2564628105) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+1. 🗣 Commented on [#1431](https://github.com/Rakesh9100/Beautiify/issues/1431#issuecomment-2564645959) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+2. 🗣 Commented on [#30](https://github.com/Rakesh9100/Eventica/issues/30#issuecomment-2564645257) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+3. 🗣 Commented on [#29](https://github.com/Rakesh9100/Eventica/issues/29#issuecomment-2564645062) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+4. 🗣 Commented on [#25](https://github.com/Rakesh9100/Eventica/pull/25#issuecomment-2564636217) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+5. 🗣 Commented on [#30](https://github.com/Rakesh9100/Eventica/issues/30#issuecomment-2564633961) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
