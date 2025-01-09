@@ -146,11 +146,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1437](https://github.com/Rakesh9100/Beautiify/issues/1437#issuecomment-2577653334) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🗣 Commented on [#51](https://github.com/Rakesh9100/Eventica/issues/51#issuecomment-2577398399) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-3. 🗣 Commented on [#51](https://github.com/Rakesh9100/Eventica/issues/51#issuecomment-2577385844) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-4. 🗣 Commented on [#45](https://github.com/Rakesh9100/Eventica/pull/45#issuecomment-2577320747) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-5. 🗣 Commented on [#50](https://github.com/Rakesh9100/Eventica/issues/50#issuecomment-2577211973) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+1. ❗ Opened issue [#52](https://github.com/Rakesh9100/Eventica/issues/52) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+2. ❗ Opened issue [#1984](https://github.com/Rakesh9100/CalcDiverse/issues/1984) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. ❗ Opened issue [#1440](https://github.com/Rakesh9100/Beautiify/issues/1440) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🗣 Commented on [#1437](https://github.com/Rakesh9100/Beautiify/issues/1437#issuecomment-2577653334) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🗣 Commented on [#51](https://github.com/Rakesh9100/Eventica/issues/51#issuecomment-2577398399) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
