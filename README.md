@@ -146,11 +146,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1454](https://github.com/Rakesh9100/Beautiify/issues/1454#issuecomment-2585834709) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🔒 Closed issue [#1438](https://github.com/Rakesh9100/Beautiify/issues/1438) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. 🎉 Merged PR [#1447](https://github.com/Rakesh9100/Beautiify/pull/1447) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-4. ❌ Closed PR [#1453](https://github.com/Rakesh9100/Beautiify/pull/1453) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-5. 🗣 Commented on [#1454](https://github.com/Rakesh9100/Beautiify/issues/1454#issuecomment-2585823661) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🗣 Commented on [#56](https://github.com/Rakesh9100/Eventica/pull/56#issuecomment-2586109509) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+2. 🎉 Merged PR [#45](https://github.com/Rakesh9100/Eventica/pull/45) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+3. 🔒 Closed issue [#34](https://github.com/Rakesh9100/Eventica/issues/34) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+4. 🗣 Commented on [#1454](https://github.com/Rakesh9100/Beautiify/issues/1454#issuecomment-2585834709) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+5. 🔒 Closed issue [#1438](https://github.com/Rakesh9100/Beautiify/issues/1438) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
