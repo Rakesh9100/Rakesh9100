@@ -146,11 +146,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#55](https://github.com/Rakesh9100/Eventica/issues/55) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-2. 🎉 Merged PR [#66](https://github.com/Rakesh9100/Eventica/pull/66) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-3. 🔒 Closed issue [#60](https://github.com/Rakesh9100/Eventica/issues/60) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-4. 🎉 Merged PR [#64](https://github.com/Rakesh9100/Eventica/pull/64) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-5. 🗣 Commented on [#1985](https://github.com/Rakesh9100/CalcDiverse/pull/1985#issuecomment-2592868782) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#54](https://github.com/Rakesh9100/Eventica/issues/54#issuecomment-2593026018) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+2. 🗣 Commented on [#52](https://github.com/Rakesh9100/Eventica/issues/52#issuecomment-2593024482) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+3. 🗣 Commented on [#46](https://github.com/Rakesh9100/Eventica/issues/46#issuecomment-2593021144) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+4. 🗣 Commented on [#69](https://github.com/Rakesh9100/Eventica/pull/69#issuecomment-2592996053) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+5. 🗣 Commented on [#68](https://github.com/Rakesh9100/Eventica/pull/68#issuecomment-2592979017) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
