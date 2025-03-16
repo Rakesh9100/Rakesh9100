@@ -133,13 +133,6 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<h3>✨ Quira Stats</h3>
-
-<p align = "center">
-<img src="https://stats.quira.sh/Rakesh9100/github?theme=dark" width="330" height="220" alt="Rakesh9100's GitHub | Stats">
-<img src="https://stats.quira.sh/Rakesh9100/topics-over-time?theme=dark" width="330" height="240" alt="Rakesh9100's GitHub | Topics Over Time">
-</p>
-
 <p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"></p><br>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269540879-79d3b4fa-d8fc-4348-94a1-7df5414d1ab3.gif" height = 41px>&nbsp;&nbsp; Recent GitHub Activity
