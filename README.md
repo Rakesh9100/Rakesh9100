@@ -139,7 +139,7 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/Rakesh9100/Eventica/pull/107#issuecomment-2692875517) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+1. 🗣 Commented on [#1416](https://github.com/Rakesh9100/Beautiify/issues/1416#issuecomment-2833494757) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 2. 🗣 Commented on [#723](https://github.com/Rakesh9100/Beautiify/issues/723#issuecomment-2692369306) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 3. 🗣 Commented on [#107](https://github.com/Rakesh9100/Eventica/pull/107#issuecomment-2692366460) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
 4. ❗ Opened issue [#109](https://github.com/Rakesh9100/Eventica/issues/109) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
