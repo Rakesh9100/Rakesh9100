@@ -139,11 +139,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1416](https://github.com/Rakesh9100/Beautiify/issues/1416) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🎉 Merged PR [#1503](https://github.com/Rakesh9100/Beautiify/pull/1503) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. 🗣 Commented on [#1999](https://github.com/Rakesh9100/CalcDiverse/pull/1999#issuecomment-2847789370) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. 🗣 Commented on [#109](https://github.com/Rakesh9100/Eventica/issues/109#issuecomment-2847777361) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-5. 🎉 Merged PR [#1999](https://github.com/Rakesh9100/CalcDiverse/pull/1999) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. 🗣 Commented on [#2000](https://github.com/Rakesh9100/CalcDiverse/pull/2000#issuecomment-2849330608) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. 🔒 Closed issue [#1416](https://github.com/Rakesh9100/Beautiify/issues/1416) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. 🎉 Merged PR [#1503](https://github.com/Rakesh9100/Beautiify/pull/1503) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. 🗣 Commented on [#1999](https://github.com/Rakesh9100/CalcDiverse/pull/1999#issuecomment-2847789370) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+5. 🗣 Commented on [#109](https://github.com/Rakesh9100/Eventica/issues/109#issuecomment-2847777361) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
