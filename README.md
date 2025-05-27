@@ -139,11 +139,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1417](https://github.com/Rakesh9100/Beautiify/issues/1417) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-2. 🎉 Merged PR [#1504](https://github.com/Rakesh9100/Beautiify/pull/1504) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. 🔒 Closed issue [#109](https://github.com/Rakesh9100/Eventica/issues/109) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-4. 🎉 Merged PR [#110](https://github.com/Rakesh9100/Eventica/pull/110) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
-5. 🗣 Commented on [#723](https://github.com/Rakesh9100/Beautiify/issues/723#issuecomment-2888520266) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. 🎉 Merged PR [#3](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/3) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
+2. 🎉 Merged PR [#2](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/2) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
+3. 💪 Opened PR [#3](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/3) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
+4. 💪 Opened PR [#2](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/2) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
+5. 🔒 Closed issue [#1417](https://github.com/Rakesh9100/Beautiify/issues/1417) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
