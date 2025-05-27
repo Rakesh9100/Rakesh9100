@@ -139,11 +139,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Rakesh9100/Secure-repository-supply-chain/pull/6) in [Rakesh9100/Secure-repository-supply-chain](https://github.com/Rakesh9100/Secure-repository-supply-chain)
-2. 🎉 Merged PR [#3](https://github.com/Rakesh9100/Secure-repository-supply-chain/pull/3) in [Rakesh9100/Secure-repository-supply-chain](https://github.com/Rakesh9100/Secure-repository-supply-chain)
-3. 🎉 Merged PR [#3](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/3) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
-4. 🎉 Merged PR [#2](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/2) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
-5. 💪 Opened PR [#3](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/3) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
+1. 🗣 Commented on [#1](https://github.com/Rakesh9100/Introduction-to-secret-scanning/issues/1#issuecomment-2911264556) in [Rakesh9100/Introduction-to-secret-scanning](https://github.com/Rakesh9100/Introduction-to-secret-scanning)
+2. 🎉 Merged PR [#6](https://github.com/Rakesh9100/Secure-repository-supply-chain/pull/6) in [Rakesh9100/Secure-repository-supply-chain](https://github.com/Rakesh9100/Secure-repository-supply-chain)
+3. 🎉 Merged PR [#3](https://github.com/Rakesh9100/Secure-repository-supply-chain/pull/3) in [Rakesh9100/Secure-repository-supply-chain](https://github.com/Rakesh9100/Secure-repository-supply-chain)
+4. 🎉 Merged PR [#3](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/3) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
+5. 🎉 Merged PR [#2](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/2) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
