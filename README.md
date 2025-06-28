@@ -139,7 +139,7 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Rakesh9100/Introduction-to-secret-scanning/issues/1#issuecomment-2911264556) in [Rakesh9100/Introduction-to-secret-scanning](https://github.com/Rakesh9100/Introduction-to-secret-scanning)
+1. 🗣 Commented on [#1507](https://github.com/Rakesh9100/Beautiify/issues/1507#issuecomment-3015379529) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 2. 🎉 Merged PR [#6](https://github.com/Rakesh9100/Secure-repository-supply-chain/pull/6) in [Rakesh9100/Secure-repository-supply-chain](https://github.com/Rakesh9100/Secure-repository-supply-chain)
 3. 🎉 Merged PR [#3](https://github.com/Rakesh9100/Secure-repository-supply-chain/pull/3) in [Rakesh9100/Secure-repository-supply-chain](https://github.com/Rakesh9100/Secure-repository-supply-chain)
 4. 🎉 Merged PR [#3](https://github.com/Rakesh9100/Introduction-to-repository-management/pull/3) in [Rakesh9100/Introduction-to-repository-management](https://github.com/Rakesh9100/Introduction-to-repository-management)
