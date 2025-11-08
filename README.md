@@ -139,10 +139,10 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1515](undefined) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+1. ❌ Closed PR [#111](undefined) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
 2. ❌ Labeled PR [#1515](undefined) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-3. ❌ Assigned PR [#1515](undefined) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
-4. 🔒 Closed issue [#1507](https://github.com/Rakesh9100/Beautiify/issues/1507) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+3. ❌ Labeled PR [#1515](undefined) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
+4. ❌ Assigned PR [#1515](undefined) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 5. 🎉 Merged PR [#1508](https://github.com/Rakesh9100/Beautiify/pull/1508) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
