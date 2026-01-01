@@ -139,10 +139,10 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2005](https://github.com/Rakesh9100/CalcDiverse/issues/2005) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. ❌ Labeled PR [#2006](undefined) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. ❌ Labeled PR [#2006](undefined) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. ❌ Assigned PR [#2006](undefined) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. ℹ️ Labeled issue [#2005](https://github.com/Rakesh9100/CalcDiverse/issues/2005) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+2. ℹ️ Labeled PR [#2006](https://github.com/Rakesh9100/CalcDiverse/pull/2006) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. ℹ️ Labeled PR [#2006](https://github.com/Rakesh9100/CalcDiverse/pull/2006) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. ℹ️ Assigned PR [#2006](https://github.com/Rakesh9100/CalcDiverse/pull/2006) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 5. 🔒 Closed issue [#2005](https://github.com/Rakesh9100/CalcDiverse/issues/2005) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
