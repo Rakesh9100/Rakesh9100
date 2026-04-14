@@ -139,9 +139,9 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2004](https://github.com/Rakesh9100/CalcDiverse/issues/2004) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. ℹ️ Labeled issue [#2004](https://github.com/Rakesh9100/CalcDiverse/issues/2004) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. ℹ️ Unlabeled issue [#2004](https://github.com/Rakesh9100/CalcDiverse/issues/2004) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+1. ℹ️ Labeled issue [#115](https://github.com/Rakesh9100/Eventica/issues/115) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+2. ℹ️ Labeled issue [#115](https://github.com/Rakesh9100/Eventica/issues/115) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+3. ℹ️ Labeled issue [#2004](https://github.com/Rakesh9100/CalcDiverse/issues/2004) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 4. ℹ️ Labeled issue [#2004](https://github.com/Rakesh9100/CalcDiverse/issues/2004) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 5. ℹ️ Unlabeled issue [#2004](https://github.com/Rakesh9100/CalcDiverse/issues/2004) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
 
