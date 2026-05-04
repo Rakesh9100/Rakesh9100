@@ -139,11 +139,11 @@
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Rakesh9100&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2008](https://github.com/Rakesh9100/CalcDiverse/issues/2008) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-2. ℹ️ Assigned issue [#2008](https://github.com/Rakesh9100/CalcDiverse/issues/2008) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-3. 🗣 Commented on [#2008](https://github.com/Rakesh9100/CalcDiverse/issues/2008#issuecomment-4360262942) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
-4. ❌ Closed PR [#27](https://github.com/Rakesh9100/My-Portfolio-Website/pull/27) in [Rakesh9100/My-Portfolio-Website](https://github.com/Rakesh9100/My-Portfolio-Website)
-5. ℹ️ Labeled issue [#115](https://github.com/Rakesh9100/Eventica/issues/115) in [Rakesh9100/Eventica](https://github.com/Rakesh9100/Eventica)
+1. ❌ Closed PR [#27](https://github.com/Rakesh9100/My-Portfolio-Website/pull/27) in [Rakesh9100/My-Portfolio-Website](https://github.com/Rakesh9100/My-Portfolio-Website)
+2. ℹ️ Labeled PR [#2007](https://github.com/Rakesh9100/CalcDiverse/pull/2007) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+3. ℹ️ Labeled PR [#2007](https://github.com/Rakesh9100/CalcDiverse/pull/2007) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+4. ℹ️ Assigned PR [#2007](https://github.com/Rakesh9100/CalcDiverse/pull/2007) in [Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)
+5. ℹ️ Labeled PR [#1519](https://github.com/Rakesh9100/Beautiify/pull/1519) in [Rakesh9100/Beautiify](https://github.com/Rakesh9100/Beautiify)
 
 <details><summary><b> ⚙️ Show Older Activity</b></summary>
 
